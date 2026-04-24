@@ -4,9 +4,7 @@ _Summerville Mobile › Move Money › Scheduled & Recurring Transfers_
 
 ## Move Money: Scheduled & Recurring Transfers
 
-> Two related surfaces. The **Repeat Transfer** sheet inside any transfer form is where you set up a recurring schedule (8 frequencies, optional end date). The **Scheduled Transfers** screen from the Dashboard or Move Money hub lists every scheduled / recurring transfer you've set up, with Delete and Edit controls per row.
-
-**How to get here:** Bottom navigation → **Move Money** → **Scheduled Transfers** (or set one up from any transfer form by ticking **Repeat transfer**)
+> Two related surfaces. The **Repeat Transfer** sheet inside any transfer form is where you set up a recurring schedule (8 frequencies, optional end date). The **View Scheduled Transfers** screen is where you review, edit, or cancel every transfer you've scheduled — split by Within Summerville vs External Account.
 
 ### Step-by-Step Workflow
 
@@ -40,25 +38,37 @@ After tapping Transfer Funds on the main form, the Confirm screen shows the full
 
 ![Step 5: Confirm the Recurring Transfer](../.gitbook/assets/Screenshot_1776963214.png)
 
-#### Step 6: View Scheduled Transfers List
+#### Step 6: Open View Scheduled Transfers
 
-Open **Move Money → Scheduled Transfers** (or Dashboard → Quick Transfer → scroll to **View Scheduled Transfers**). The **Scheduled Transfers** screen shows a **Within Credit Union** section with a From account selector at the top, and a list of every active scheduled/recurring transfer. Each row shows **From / To accounts**, **frequency** (*One Time* / *Weekly* / etc.), **Next transaction** date, **amount**, and **Delete** / **Edit** buttons.
+From Move Money or the Dashboard's Quick Transfer section, tap **View Scheduled Transfers**. The landing screen groups your schedules by type: **Individual** section with two rows — **Within Summerville** and **External Account**. Tap either to see the schedules of that type.
 
-![Step 6: View Scheduled Transfers List](../.gitbook/assets/Screenshot_1776963636.png)
+![Step 6: Open View Scheduled Transfers](../.gitbook/assets/Screenshot_1776963594.png)
 
-#### Step 7: Cancel a Scheduled Transfer
+#### Step 7: View the Scheduled Transfers List
+
+Within Summerville shows any active within-credit-union schedules: From, To, frequency (*One Time* / *Weekly* / etc.), Next transaction date, amount, and **Delete** / **Edit** buttons per row. External Account shows external-rail schedules in the same format. If none exist, you'll see *"You have no scheduled transfers"* below the membership header.
+
+![Step 7: View the Scheduled Transfers List](../.gitbook/assets/Screenshot_1776963636.png)
+
+#### Step 8: Empty State — No Scheduled Transfers
+
+If you haven't scheduled anything yet (or cancelled everything), the list shows *"You have no scheduled transfers"* with the selected membership at the top. No Delete/Edit controls — just the empty state.
+
+![Step 8: Empty State — No Scheduled Transfers](../.gitbook/assets/Screenshot_1776963617.png)
+
+#### Step 9: Cancel a Scheduled Transfer
 
 Tap **Delete** on any row. A **Confirm** dialog asks *"Are you sure you want to cancel this scheduled transfer?"* with **Cancel** and **OK**. Tap **OK** to cancel the series; tap **Cancel** in the dialog to keep it active. Cancelling one instance of a recurring transfer cancels the whole series.
 
-![Step 7: Cancel a Scheduled Transfer](../.gitbook/assets/Screenshot_1776963604.png)
+![Step 9: Cancel a Scheduled Transfer](../.gitbook/assets/Screenshot_1776963604.png)
 
 ### Summary
 
-Recurring transfers serve two common patterns: payroll-day splits (paycheck → savings) and fixed-amount household transfers (rent, subscriptions). The 8-frequency list covers everything from daily sweeps to annual tax top-ups. **Until I Cancel** is the realistic default — most members don't know a future end date. The Scheduled Transfers list is your authoritative record of every active schedule; Delete gives you a fast kill-switch, but because it cancels the entire series, the confirm dialog is the guardrail against fat-finger regret.
+Recurring transfers serve two common patterns: payroll-day splits (paycheck → savings) and fixed-amount household transfers (rent, subscriptions). The 8-frequency list covers everything from daily sweeps to annual tax top-ups. **Until I Cancel** is the realistic default — most members don't know a future end date. The View Scheduled Transfers screen splits Within Summerville from External Account because they're different rails with different cancellation windows (within-core cancellations are instant; external cancellations may be blocked if the ACH file has already been originated). Delete gives you a fast kill-switch but the confirm dialog is the guardrail against fat-finger regret.
 
 ### Key Use Cases
 
 * Weekly paycheck savings split: Weekly / Until I Cancel → Retail Checking → Retail Savings → fixed amount.
 * Monthly external rent transfer with known lease end: Monthly / End Date = lease end → runs until that date, then stops automatically.
-* Review all active schedules: Scheduled Transfers screen shows every one in a single list.
+* Review all active schedules: View Scheduled Transfers → pick type → list with Delete/Edit per row.
 * Pause a transfer for a month: no built-in pause — cancel and recreate when ready.
