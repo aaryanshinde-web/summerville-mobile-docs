@@ -1,43 +1,50 @@
-# Home & Insights
+# Home & Insights (Dashboard)
 
 _Summerville Mobile › Dashboard › Home & Insights_
 
 ## Dashboard: Home & Insights
 
-> The post-login landing — Financial summary donut, Net Worth trend, and "Activity since last login" — is engineered to answer the three questions members open the app for: what's my balance, what's my trajectory, and what happened while I was away.
+> The Dashboard is what loads after every login. It's built to answer the three things members open the app for: "what's my balance," "how's my spending trending," and "what happened since I last looked." Three scrollable sections — Quick Transfer, Spending donut, and Net Worth — with an Activity Since Last Login summary pinned at the bottom.
 
 ### Step-by-Step Workflow
 
-#### Step 1: Financial Summary Donut
+#### Step 1: Top of Dashboard — Greeting + Credit Offers + All Accounts Summary
 
-The donut chart at the top of the Dashboard aggregates all eligible balances into a single **Financial** total (e.g., $3,297.57 shown in the capture), with wedges color-coded by account category. The **Ask Penni…** virtual-assistant bar sits above the chart so members can ask balance and transaction questions in natural language without drilling into the Accounts tab.
+Scrolling to the top of the Dashboard, you'll see the **Ask Penni…** assistant bar, a greeting (*"Good Morning, DONALDBLAKE"*), a **Credit Score And Offers** card with a quick credit-score widget and an offers list (*"No offers to display"* when there aren't any), and an **All Accounts** summary card showing **Total deposits** and **Total outstanding loans** at a glance. Tap into any of these for deeper views.
 
-![Step 1: Financial Summary Donut](../.gitbook/assets/Screenshot_1776962775.png)
+![Step 1: Top of Dashboard — Greeting + Credit Offers + All Accounts Summary](../.gitbook/assets/Screenshot_1776962747.png)
 
-#### Step 2: Net Worth Trend
+#### Step 2: Quick Transfer List
 
-Below the donut, the **Net Worth** card shows the last 6 months of total net worth with the current month highlighted (e.g., April 2026 — $1,425,220.59). Tap **View Assets & Liabilities** to drill into the breakdown that feeds this number, which is the entry point to the Financial Wellness experience powered by MX or equivalent aggregator.
+Below the summary is the **Quick Transfer** section. It lists your accounts and any saved recipients as tappable rows (**My Accounts — 2 accounts**, then individual saved people like **Cari Dunford — 1 account**, **Steven Richards**, **test**, **Aniket**, **John Smith**, **Jane Doe**). Tapping any row jumps straight into a pre-filled Transfer Funds form — it's the fastest path to a repeat transfer without navigating through the Move Money tab.
 
-![Step 2: Net Worth Trend](../.gitbook/assets/Screenshot_1776962775.png)
+![Step 2: Quick Transfer List](../.gitbook/assets/Screenshot_1776962768.png)
 
-#### Step 3: Activity Since Last Login
+#### Step 3: Spending Donut
 
-The collapsible **Activity since last login** tray at the bottom of the main Dashboard card surfaces transactions, alerts, and messages that appeared between the member's previous session and this one. This is intentionally the first thing below Net Worth because returning members want to see what changed, not re-read what they already knew.
+Scroll further and the **Spending** card appears with a colorful donut chart covering the current period (e.g., *"Apr 1 – Apr 23"*). The donut segments show your spending by category. The center shows the total — **Financial** with the amount (e.g., *$3,297.57*). This is the primary spending-insights visualization members open to answer "where did my money go."
 
-![Step 3: Activity Since Last Login](../.gitbook/assets/Screenshot_1776962775.png)
+![Step 3: Spending Donut](../.gitbook/assets/Screenshot_1776962772.png)
 
-#### Step 4: Feedback Prompt (Periodic)
+#### Step 4: Net Worth Trend
 
-A **Feedback** rating sheet surfaces periodically on the Dashboard asking *"How would you rate your mobile banking experience?"* with a 5-point face-scale (sad → love). **Not Now** dismisses without rating and the prompt won't re-surface in the current session. Ratings feed the in-app NPS pipeline; the prompt is rate-limited per member so it doesn't become intrusive.
+Below the Spending donut is the **Net Worth** card. A time-range filter lets you pick **6M / 9M / 1Y** of history; the line plots net worth over time and highlights the current month (e.g., *April 2026 — $1,425,220.59*). The full breakdown behind this number is available via *"View Assets & Liabilities"*.
 
-![Step 4: Feedback Prompt (Periodic)](../.gitbook/assets/Screenshot_1776964097.png)
+![Step 4: Net Worth Trend](../.gitbook/assets/Screenshot_1776962772.png)
+
+#### Step 5: Activity Since Last Login
+
+At the bottom of every Dashboard section is a navy pill: **"Activity since last login"**. Tap it to open the full-screen modal: *"Activity Since Last Login — Last logged in: [date and time]"*. If nothing happened between sessions, the modal shows *"There is no activity available."* If there were transactions, alerts, or messages, they appear here. Tap **✕** to close and return to the Dashboard.
+
+![Step 5: Activity Since Last Login](../.gitbook/assets/Screenshot_1776962780.png)
 
 ### Summary
 
-The Dashboard is deliberately narrow in scope: total balance, net worth, and session-delta activity — everything else is one tab-tap away. The Ask Penni bar, the donut, and Activity-since-last-login are the three signals that do the most work for returning members, and they're all above the fold on a standard phone viewport. The feedback sheet is a low-friction satisfaction signal that populates NPS without a survey email, but because it interrupts the home screen it's rate-limited server-side.
+The Dashboard is deliberately narrow: a greeting, a shortcut-to-action Quick Transfer list, a spending insight, a net-worth trend, and a session-delta activity summary. Everything else is one tab-tap away (Accounts, Move Money, Deposit) or inside the Side Menu. The Quick Transfer list is the underrated power feature — if you repeat the same transfer often, pinning it from the Dashboard is one tap vs. three. Activity Since Last Login is the "what did I miss" view and is safe to open every time.
 
 ### Key Use Cases
 
-* Daily balance check: open app → biometric login → Dashboard shows total balance in the donut, no further taps needed.
-* Member wants to understand net worth change: tap **View Assets & Liabilities** to see which account moved.
-* Returning after a week away: **Activity since last login** surfaces pending transactions, alerts, and messages in one collapsible section instead of four separate tabs.
+* Daily balance check: open the app → biometric login → Dashboard loads → **All Accounts** card shows totals above the fold.
+* Repeat transfer to a known recipient: Dashboard → tap their row in **Quick Transfer** → confirm amount → send.
+* Weekly spending review: scroll to **Spending** donut → tap a segment to see transactions in that category.
+* Returning after a week away: tap **Activity since last login** to see what changed between sessions.

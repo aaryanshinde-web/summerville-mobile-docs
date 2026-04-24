@@ -9,10 +9,10 @@
 If you're brand new to the app, read these pages in order:
 
 1. **[Welcome & Login](01-authentication-and-login/welcome-and-login.md)** — your first screen.
-2. **[Phone Verification & Device Trust](01-authentication-and-login/phone-verification-and-device-trust.md)** — proves this is your phone.
-3. **[Trust This Device](01-authentication-and-login/trust-this-device-prompt.md)** — skip the OTP on future logins.
-4. **[Home & Insights](02-dashboard/home-and-insights.md)** — the Dashboard you land on every time.
-5. **[Side Menu](05-profile-and-preferences/side-menu.md)** — the full map of features outside the bottom tabs.
+2. **[Phone Verification & Device Trust](01-authentication-and-login/phone-verification-and-device-trust.md)** — the two-part first-login security flow.
+3. **[Home & Insights (Dashboard)](02-dashboard/home-and-insights.md)** — the screen you land on every time.
+4. **[Side Menu](05-profile-and-preferences/side-menu.md)** — the full map of features outside the bottom tabs.
+5. **[Move Money Hub](04-move-money/move-money-hub.md)** — every way to move money in one place.
 
 ## Contents
 
@@ -30,8 +30,7 @@ If you're brand new to the app, read these pages in order:
 ### Accounts
 
 * [Accounts Dashboard & Filters](03-accounts/accounts-dashboard-and-filters.md)
-* [External Accounts in Accounts Tab](03-accounts/external-accounts-in-accounts-tab.md)
-* [Link an External Account](03-accounts/link-external-account.md)
+* [External Accounts](03-accounts/external-accounts.md)
 * [Add a Membership](03-accounts/add-a-membership.md)
 * [Account Settings & Beneficiaries](03-accounts/account-settings-and-beneficiaries.md)
 * [Request Account Closure](03-accounts/request-account-closure.md)

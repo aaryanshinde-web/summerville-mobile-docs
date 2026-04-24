@@ -16,8 +16,7 @@
 ## Accounts
 
 * [Accounts Dashboard & Filters](03-accounts/accounts-dashboard-and-filters.md)
-* [External Accounts in Accounts Tab](03-accounts/external-accounts-in-accounts-tab.md)
-* [Link an External Account](03-accounts/link-external-account.md)
+* [External Accounts](03-accounts/external-accounts.md)
 * [Add a Membership](03-accounts/add-a-membership.md)
 * [Account Settings & Beneficiaries](03-accounts/account-settings-and-beneficiaries.md)
 * [Request Account Closure](03-accounts/request-account-closure.md)
