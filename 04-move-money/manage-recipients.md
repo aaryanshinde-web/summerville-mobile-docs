@@ -4,34 +4,47 @@ _Summerville Mobile › Move Money › Manage Recipients_
 
 ## Move Money: Manage Recipients
 
-> The system-of-record for every external person and account the member sends to repeatedly — grouped by Individual vs. Business, with per-recipient edit/remove from a long-press sheet.
+> The authoritative list of every recipient you send to. Browse all recipients, search by name, open details to see linked accounts, edit details (name + nickname), add another account to a recipient, or remove the recipient entirely.
 
 ### Step-by-Step Workflow
 
-#### Step 1: All Recipients List
+#### Step 1: Open Manage Recipients From Move Money
 
-The All Recipients screen groups entries by type — **Personal recipient** section at the top with a **+ New** button, followed by a search bar and the full list (*Cari Dunford — 1 account, Steven Richards — 1 account, test — 1 account, Aniket, John Smith, Jane Doe, nemo*). Tap a row to view its accounts or long-press for quick actions.
+Tap **Move Money** in the bottom nav, then **Manage Recipients**. The **All Recipients** screen loads.
 
-![Step 1: All Recipients List](../.gitbook/assets/Screenshot_1776963654.png)
+![Step 1: Open Manage Recipients From Move Money](../.gitbook/assets/Screenshot_1776962882.png)
 
-#### Step 2: Long-Press for Edit / Remove
+#### Step 2: Browse, Search, or Add New
 
-Long-pressing a recipient row dims the list and opens a bottom action sheet with **Edit** and **Remove**. Edit opens the recipient detail; Remove confirms deletion and immediately removes the recipient from the Transfer Funds picker.
+The **All Recipients** screen groups entries by type — **Personal recipient** at the top with a **+ New** button. A search bar lets you filter by name. Your saved recipients are listed with their count of linked accounts (e.g., *Cari Dunford — 1 account*, *Steven Richards — 1 account*, *test — 1 account*). Each row has a **⋮** three-dot menu at the right.
 
-![Step 2: Long-Press for Edit / Remove](../.gitbook/assets/Screenshot_1776963526.png)
+![Step 2: Browse, Search, or Add New](../.gitbook/assets/Screenshot_1776963529.png)
 
-#### Step 3: Update Account — External Recipient Detail
+#### Step 3: Tap a Recipient to Open Details
 
-Inside a recipient, tap an account to open the **Update Account** sheet. Editable fields: **Payment type** (External / Internal), **External Account Nickname**, and the routing/account-number path. **Name on account** and institution (e.g., *DANIEL KARA — IQ Bank*) are read-only after first save — keyed off the aggregator's verification response.
+Tap a recipient row (e.g., **Cari Dunford**). **Recipient Details** opens — a card with the recipient's name, an **Edit details** link, and an **Accounts** section listing every account you've added for them (e.g., *iq bank prime checking - x6596 — External Transfer*). **+ Add Account** at the bottom lets you link a second account (personal + business, checking + savings) to the same recipient.
 
-![Step 3: Update Account — External Recipient Detail](../.gitbook/assets/Screenshot_1776963536.png)
+![Step 3: Tap a Recipient to Open Details](../.gitbook/assets/Screenshot_1776963544.png)
+
+#### Step 4: Long-Press for Quick Edit / Remove
+
+From the All Recipients list, long-press a row to open the bottom action sheet with **Edit** and **Remove**. Edit opens the recipient detail; Remove confirms deletion and removes the recipient from the Transfer Funds picker immediately.
+
+![Step 4: Long-Press for Quick Edit / Remove](../.gitbook/assets/Screenshot_1776963520.png)
+
+#### Step 5: Edit Recipient — Success Dialog
+
+After making changes via **Edit details** (name, nickname) and saving, a success dialog appears: *"Edit Recipient — Recipient updated successfully."* with the updated account card below (e.g., *iq bank prime checking - x6596, #459816596, External Transfer*). Tap **OK** to dismiss.
+
+![Step 5: Edit Recipient — Success Dialog](../.gitbook/assets/Screenshot_1776963566.png)
 
 ### Summary
 
-Manage Recipients is the only place in the app where external account details can be edited without creating a new recipient — the nickname update is the most-used edit and the only one that doesn't trigger aggregator re-verification. Long-press-for-actions is a mobile convention that matches iOS/Android patterns; the same Edit/Remove pair is on every recipient row.
+Manage Recipients is the authority for every external person and account you send to. The list + search + long-press pattern matches iOS/Android conventions, so members find the action they need quickly. The critical thing to understand is the recipient / account split: a single recipient (e.g., your landlord) can have multiple accounts under them (personal + business account), and edits to the recipient's name apply to all their accounts; edits to a specific account (nickname, routing) happen inside that account's Update Account sheet. Removing a recipient removes all their accounts at once — for single-account cleanup, open Recipient Details and remove the specific account instead.
 
 ### Key Use Cases
 
-* Member renames "My Chase Checking" → "Joint Savings" for clarity: long-press → Edit → Nickname → Save.
-* Cleaning a stale recipient: long-press → Remove → confirmed → gone from Transfer Funds picker immediately.
-* Member realizes a saved routing number is wrong: long-press → Edit → update routing → Save → aggregator re-verifies.
+* Rename a recipient: All Recipients → long-press → Edit → update name → save → success dialog.
+* Add a second account to an existing recipient: tap the row → Recipient Details → **+ Add Account**.
+* Clean out a stale recipient no longer in use: long-press → Remove.
+* Quick lookup when setting up a transfer: search by name at the top of the list.

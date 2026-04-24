@@ -4,46 +4,59 @@ _Summerville Mobile › Move Money › Scheduled & Recurring Transfers_
 
 ## Move Money: Scheduled & Recurring Transfers
 
-> Recurring transfers are the set-once, forget-forever workflow — 8 frequencies with end-date control, a confirmation preview, and a cancel-anytime sheet.
+> Two related surfaces. The **Repeat Transfer** sheet inside any transfer form is where you set up a recurring schedule (8 frequencies, optional end date). The **Scheduled Transfers** screen from the Dashboard or Move Money hub lists every scheduled / recurring transfer you've set up, with Delete and Edit controls per row.
 
 ### Step-by-Step Workflow
 
-#### Step 1: Open Repeat Transfer and Pick Frequency
+#### Step 1: Open the Repeat Transfer Sheet
 
-From the transfer form, tap **Repeat Transfer** to open the frequency sheet. Pick one: **Daily, Weekly, Bi-Weekly, Bi-Monthly, Monthly, Quarterly, Semiannually, Annual**.
+Inside any Transfer Funds form, tick the **Repeat transfer** checkbox to open the Repeat Transfer sheet. You'll see two empty dropdowns — **Select frequency** and **End on** — with **Cancel** and **Save** at the bottom.
 
-![Step 1: Open Repeat Transfer and Pick Frequency](../.gitbook/assets/Screenshot_1776963158.png)
+![Step 1: Open the Repeat Transfer Sheet](../.gitbook/assets/Screenshot_1776963157.png)
 
-#### Step 2: Pick End Condition
+#### Step 2: Pick Frequency
 
-Back on the Repeat Transfer form, tap **End on** — the dropdown offers two options: **End Date** (you pick a specific stop date) or **Until I Cancel** (no end date, runs indefinitely). Most recurring transfers use **Until I Cancel** because that matches the realistic intent.
+Tap **Select frequency**. The list expands to show **Daily, Weekly, Bi-Weekly, Bi-Monthly, Monthly, Quarterly, Semiannually, Annual** — 8 options covering every realistic cadence from daily overdraft sweeps to annual tax top-ups.
 
-![Step 2: Pick End Condition](../.gitbook/assets/Screenshot_1776963161.png)
+![Step 2: Pick Frequency](../.gitbook/assets/Screenshot_1776963198.png)
 
-#### Step 3: Confirm the Schedule
+#### Step 3: Pick End Condition
 
-The Confirm screen previews the full schedule: **From / To accounts**, **amount**, **Scheduled: Weekly, until I cancel** (or whatever cadence + end rule), and a human-readable line like *"Transfers will be made every week on Thursday"*. **Edit** returns to the form, **Cancel** discards, **Confirm transfer(s)** commits.
+Tap **End on**. Two options: **End Date** (you pick a calendar stop date) or **Until I Cancel** (runs indefinitely — the most common choice for real recurring needs like weekly savings splits).
 
-![Step 3: Confirm the Schedule](../.gitbook/assets/Screenshot_1776963214.png)
+![Step 3: Pick End Condition](../.gitbook/assets/Screenshot_1776963161.png)
 
-#### Step 4: Success — Transfer Summary
+#### Step 4: Save the Schedule
 
-On commit, the **Transfer Summary** screen appears: big checkmark icon, *"Transaction Scheduled Successfully"*, the amount (e.g., **$10.00**), From / To cards, schedule line, and the next-occurrence date. **Done** returns to the Move Money hub.
+Both dropdowns filled (e.g., *Weekly*, *Until I Cancel*), tap **Save** to apply the schedule back to the transfer form, or **Cancel** to discard.
 
-![Step 4: Success — Transfer Summary](../.gitbook/assets/Screenshot_1776963222.png)
+![Step 4: Save the Schedule](../.gitbook/assets/Screenshot_1776963203.png)
 
-#### Step 5: Cancel a Scheduled Transfer
+#### Step 5: Confirm the Recurring Transfer
 
-From the **Scheduled Transfers** list later, tap **Delete** on any row; the **Confirm** dialog asks *"Are you sure you want to cancel this scheduled transfer?"* — **OK** cancels the series, **Cancel** keeps it active. Cancelling one instance cancels the entire series — per-occurrence skip isn't supported.
+After tapping Transfer Funds on the main form, the Confirm screen shows the full schedule: **From / To accounts**, **amount**, **Scheduled: Weekly, until I cancel**, and *"Transfers will be made every week on Thursday"*. **Edit** bounces back, **Cancel** discards, **Confirm transfer(s)** commits.
 
-![Step 5: Cancel a Scheduled Transfer](../.gitbook/assets/Screenshot_1776963604.png)
+![Step 5: Confirm the Recurring Transfer](../.gitbook/assets/Screenshot_1776963214.png)
+
+#### Step 6: View Scheduled Transfers List
+
+Open **Move Money → Scheduled Transfers** (or Dashboard → Quick Transfer → scroll to **View Scheduled Transfers**). The **Scheduled Transfers** screen shows a **Within Credit Union** section with a From account selector at the top, and a list of every active scheduled/recurring transfer. Each row shows **From / To accounts**, **frequency** (*One Time* / *Weekly* / etc.), **Next transaction** date, **amount**, and **Delete** / **Edit** buttons.
+
+![Step 6: View Scheduled Transfers List](../.gitbook/assets/Screenshot_1776963636.png)
+
+#### Step 7: Cancel a Scheduled Transfer
+
+Tap **Delete** on any row. A **Confirm** dialog asks *"Are you sure you want to cancel this scheduled transfer?"* with **Cancel** and **OK**. Tap **OK** to cancel the series; tap **Cancel** in the dialog to keep it active. Cancelling one instance of a recurring transfer cancels the whole series.
+
+![Step 7: Cancel a Scheduled Transfer](../.gitbook/assets/Screenshot_1776963604.png)
 
 ### Summary
 
-Recurring transfers serve the two most common repeat patterns — payroll-day savings splits and fixed-amount household transfers — with a frequency list that covers everything from daily overdraft sweeps to annual tax top-ups. The **Until I Cancel** default (no end date) matches how most recurring needs actually run. The explicit confirm-to-cancel dialog prevents fat-finger cancellation of a mission-critical auto-transfer, which is the most reported regret-action for this feature.
+Recurring transfers serve two common patterns: payroll-day splits (paycheck → savings) and fixed-amount household transfers (rent, subscriptions). The 8-frequency list covers everything from daily sweeps to annual tax top-ups. **Until I Cancel** is the realistic default — most members don't know a future end date. The Scheduled Transfers list is your authoritative record of every active schedule; Delete gives you a fast kill-switch, but because it cancels the entire series, the confirm dialog is the guardrail against fat-finger regret.
 
 ### Key Use Cases
 
-* Weekly paycheck savings split: Weekly frequency, Until I Cancel, Retail Checking → Retail Savings, fixed amount.
-* Rent auto-transfer with known end date: Monthly, End Date = lease end.
-* Member wants to pause one month: current behavior is cancel-and-re-create; there's no built-in pause.
+* Weekly paycheck savings split: Weekly / Until I Cancel → Retail Checking → Retail Savings → fixed amount.
+* Monthly external rent transfer with known lease end: Monthly / End Date = lease end → runs until that date, then stops automatically.
+* Review all active schedules: Scheduled Transfers screen shows every one in a single list.
+* Pause a transfer for a month: no built-in pause — cancel and recreate when ready.
