@@ -6,6 +6,7 @@
 
 * [Welcome & Login](01-authentication-and-login/welcome-and-login.md)
 * [Phone Verification & Device Trust](01-authentication-and-login/phone-verification-and-device-trust.md)
+* [Trust This Device Prompt](01-authentication-and-login/trust-this-device-prompt.md)
 
 ## Dashboard
 
@@ -22,7 +23,7 @@
 
 ## Move Money
 
-* [Transfer Funds — Internal](04-move-money/transfer-funds-internal.md)
+* [Transfer Funds — Internal & Other Members](04-move-money/transfer-funds-internal.md)
 * [FedNow Instant Transfer](04-move-money/fednow-instant-transfer.md)
 * [External & P2P Transfer](04-move-money/external-and-p2p-transfer.md)
 * [External Transfer — Scam Warning](04-move-money/external-transfer-scam-warning.md)
@@ -33,6 +34,8 @@
 * [Zelle Send Money](04-move-money/zelle-send-money.md)
 * [Quick Pay SSO](04-move-money/quick-pay-sso.md)
 * [Mobile Check Deposit](04-move-money/mobile-check-deposit.md)
+* [Stop Check Payment](04-move-money/stop-check-payment.md)
+* [Skip A Pay](04-move-money/skip-a-pay.md)
 
 ## Profile & Preferences
 

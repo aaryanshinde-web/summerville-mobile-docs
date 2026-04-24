@@ -1,8 +1,8 @@
 # README
 
-> GitBook-style reference for the **Summerville Mobile** end-member banking app. Each module below links to its guide; large modules are split into sub-feature docs so no single guide runs longer than ~8 steps. Per-page structure mirrors the Harmoney Admin Console Summerville space so both references read as one product library.
+> GitBook-style reference for the **Summerville Mobile** end-member banking app. Each module below links to its guide; large modules are split into sub-feature docs so no single guide runs longer than ~8 steps. Per-page structure mirrors the Harmoney Admin Console Summerville space.
 
-> **Scope:** covers features that exist in Summerville Mobile today (April 2026). Cards and Business Banking are web-only on nFinia as of this date and are intentionally excluded — the `cards/` and `business-banking/` folders in this directory contain deprecated stubs and can be deleted.
+> **Scope:** features that exist in Summerville Mobile today (April 2026). Cards and Business Banking are web-only on nFinia and are intentionally excluded — `cards/` and `business-banking/` in this directory are deprecated stubs from an earlier draft.
 
 ## Contents
 
@@ -10,6 +10,7 @@
 
 * [welcome-and-login](authentication-and-login/welcome-and-login)
 * [phone-verification-and-device-trust](authentication-and-login/phone-verification-and-device-trust)
+* [trust-this-device-prompt](authentication-and-login/trust-this-device-prompt)
 
 ### Dashboard
 
@@ -37,6 +38,8 @@
 * [zelle-send-money](move-money/zelle-send-money)
 * [quick-pay-sso](move-money/quick-pay-sso)
 * [mobile-check-deposit](move-money/mobile-check-deposit)
+* [stop-check-payment](move-money/stop-check-payment)
+* [skip-a-pay](move-money/skip-a-pay)
 
 ### Profile & Preferences
 
