@@ -58,6 +58,7 @@ If you're brand new to the app, read these pages in order:
 * [More Options Menu](05-profile-and-preferences/more-options-menu.md)
 * [Settings & Preferences](05-profile-and-preferences/settings-and-preferences.md)
 * [Alert Settings](05-profile-and-preferences/alert-settings-hub.md)
+* [Alert Preferences](05-profile-and-preferences/alert-preferences.md)
 * [Profile Switcher — Personal & Business](05-profile-and-preferences/profile-switcher-personal-business.md)
 * [Personal Information Menu](05-profile-and-preferences/personal-information-menu.md)
 * [Update Phone Number](05-profile-and-preferences/update-phone-number.md)
