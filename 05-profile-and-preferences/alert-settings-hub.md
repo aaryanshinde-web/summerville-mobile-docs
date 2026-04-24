@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Alert Settings_
 
 > The parent menu for every notification preference — balance thresholds, security events, quiet hours, and the overall notifications inbox all live here.
 
+**How to get here:** Side Menu (☰) → **Alert Settings**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

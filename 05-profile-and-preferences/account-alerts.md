@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Account Alerts_
 
 > Self-service alert configuration — balance thresholds, deposits, withdrawals, and a separate General Alerts surface for security events that can't be disabled.
 
+**How to get here:** Side Menu (☰) → **Alert Settings** → **Account Specific Alerts**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › More Options_
 
 > The secondary drill-down under Side Menu → More Options — grouped entries for Contact Us, Branch & ATM locator, Card fraud alerts, Disclosures, Text Banking, and Close Account.
 
+**How to get here:** Side Menu (☰) → **More Options**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

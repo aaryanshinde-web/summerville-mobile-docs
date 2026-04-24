@@ -6,6 +6,8 @@ _Summerville Mobile › Accounts › Account Settings & Beneficiaries_
 
 > One screen, two tabs. **Account Settings** is where you rename accounts, toggle visibility, enable balance sneak-peek, and set a default transfer source. **Membership Settings** shows ownership type, primary members on the membership, and any beneficiaries on file.
 
+**How to get here:** Side Menu (☰) → **Settings**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

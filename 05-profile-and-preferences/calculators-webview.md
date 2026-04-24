@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Calculators_
 
 > A financial-calculators section that opens as an embedded webview into a Tyfone-hosted page — loan, mortgage, and savings calculators for planning without leaving the app.
 
+**How to get here:** Side Menu (☰) → **Apply for Loans** → **Calculators**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

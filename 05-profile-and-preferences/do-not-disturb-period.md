@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Do-Not-Disturb Period_
 
 > A per-member quiet window — no push or SMS alerts during the configured hours — that respects your sleep schedule without turning off alerts entirely.
 
+**How to get here:** Side Menu (☰) → **Alert Settings** → **Do-Not-Disturb**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

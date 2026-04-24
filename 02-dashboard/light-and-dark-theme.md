@@ -6,6 +6,8 @@ _Summerville Mobile › Dashboard › Light & Dark Theme_
 
 > A member-controlled visual preference — Light, Dark, or System — stored on the device. Reached through the Side Menu.
 
+**How to get here:** Side Menu (☰) → **Dark Theme** (near the bottom)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

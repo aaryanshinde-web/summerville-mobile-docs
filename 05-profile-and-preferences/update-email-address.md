@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Update Email Address_
 
 > Multi-email profile with per-email **Edit**, a uniqueness validation that rejects duplicates, and an **+ Add a new email** entry point for additional addresses. Same pattern as phone numbers.
 
+**How to get here:** Side Menu (☰) → **Settings** → **Personal Information** → **Email Address**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Skip A Pay_
 
 > Push a loan payment out by one cycle without calling the credit union. Pick the loan, accept the fee and terms, and the due date moves. Limited to twice in any 12-month period; a processing fee applies.
 
+**How to get here:** Side Menu (☰) → **Skip A Pay**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Scheduled & Recurring Transfers_
 
 > Two related surfaces. The **Repeat Transfer** sheet inside any transfer form is where you set up a recurring schedule (8 frequencies, optional end date). The **View Scheduled Transfers** screen is where you review, edit, or cancel every transfer you've scheduled — split by Within Summerville vs External Account.
 
+**How to get here:** Bottom navigation → **Move Money** → **Scheduled Transfers** (or tick **Repeat transfer** inside any transfer form)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Repeat Transfer Sheet

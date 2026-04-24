@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Mobile Check Deposit_
 
 > The Deposit tab of the bottom navigation — pick the destination account, enter the amount, capture the front and back of the check, endorse correctly, and submit. Holds may apply per the credit union's funds-availability policy.
 
+**How to get here:** Bottom navigation → **Deposit**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Deposit Tab

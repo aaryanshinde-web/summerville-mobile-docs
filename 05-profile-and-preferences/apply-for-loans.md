@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Apply for Loans_
 
 > Entry point for loan-related tools — financial calculators for planning and the current rates sheet so you can see what Summerville is offering today.
 
+**How to get here:** Side Menu (☰) → **Apply for Loans**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

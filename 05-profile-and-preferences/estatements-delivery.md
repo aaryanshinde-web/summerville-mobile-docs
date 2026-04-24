@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Statements & eNotices_
 
 > The screen for managing paper-vs-electronic statement delivery and retrieving past statement documents.
 
+**How to get here:** Side Menu (☰) → **Statements & eNotices**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

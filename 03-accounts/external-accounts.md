@@ -6,6 +6,8 @@ _Summerville Mobile › Accounts › External Accounts_
 
 > A dedicated section at the bottom of the Accounts tab that aggregates accounts you've linked from other banks and institutions (Chase, IQ Bank, your credit card, your mortgage, etc.) — one unified view of your financial life. Link new ones through the MX aggregator, see groupings, drill into details with charges/credits tables, and use the per-row overflow menu to manage.
 
+**How to get here:** Bottom navigation → **Accounts** → scroll to the **External Accounts** section
+
 ### Step-by-Step Workflow
 
 #### Step 1: Find the External Accounts Section

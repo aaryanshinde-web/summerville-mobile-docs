@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Bill Pay — Add Biller_
 
 > The Bill Pay provider is an embedded webview (payrailztest.com). First-time users land on an empty state; searching for a biller returns a mix of known payees and a manual-add fallback. The Add Biller form then collects the account number and biller ZIP the provider needs to route the payment.
 
+**How to get here:** Bottom navigation → **Move Money** → **Pay Bills** → **+ ADD BILLER**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Bill Pay — First-Time Empty State

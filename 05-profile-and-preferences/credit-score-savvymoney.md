@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Credit Score (SavvyMoney)_
 
 > The first-time credit-score enrollment hands off to SavvyMoney via an in-app webview; the initial form collects the DOB and SSN that SavvyMoney needs to pull the bureau file.
 
+**How to get here:** Side Menu (☰) → **Credit Score**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu
