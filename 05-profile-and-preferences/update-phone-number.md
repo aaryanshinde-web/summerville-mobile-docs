@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Update Phone Number_
 
 > The phone-number-of-record is used for OTP step-up across Zelle, FedNow, and login. Three actions live on this screen — **Edit** an existing number, **Add New**, or **Delete** one — with a confirm dialog on delete so you can't lose OTP access by mistake.
 
+**How to get here:** Side Menu (☰) → **Settings** → **Personal Information** → **Phone Number**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu
