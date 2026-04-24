@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › External & P2P Transfer_
 
 > The form for any money movement that isn't internal or within Summerville — send to or receive from a linked external bank, pick Standard ACH or Same-Day Express, one-time or recurring with full scheduling options.
 
+**How to get here:** Bottom navigation → **Move Money** → **P2P Transfer**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open P2P Transfer and Pick the Rail

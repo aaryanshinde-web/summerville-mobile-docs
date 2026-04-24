@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Help & Support Tickets_
 
 > The in-app support queue — every secure-message form and service request the member has raised, with status and last-updated date, plus a one-tap **Connect with us** button to start a new thread.
 
+**How to get here:** Side Menu (☰) → **Help**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Help — Open Tickets List

@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Zelle_
 
 > Zelle is the person-to-person rail in the Move Money hub. First-time setup has four quick steps (splash → terms → pick your receive endpoint → OTP verify) and after that every send is just recipient + amount + OTP.
 
+**How to get here:** Bottom navigation → **Move Money** → **Zelle**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Zelle Splash — Move Money in the Moment

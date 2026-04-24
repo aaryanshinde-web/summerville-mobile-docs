@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Quick Pay SSO_
 
 > Quick Pay is a single-sign-on handoff into the credit union's external Quick Pay provider for one-off payments — the landing screen also doubles as the eligibility gate when the member's accounts don't qualify.
 
+**How to get here:** Bottom navigation → **Move Money** → **Quick Pay**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Quick Pay Eligibility Gate

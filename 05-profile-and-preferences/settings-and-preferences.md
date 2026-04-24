@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Settings & Preferences_
 
 > Entry point is the Side Menu — tap **Settings** from the hamburger drawer to open the preference tree for account-level toggles, security settings, and display preferences.
 
+**How to get here:** Side Menu (☰) → **Settings**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Inbox & Notifications_
 
 > The persistent in-app message center — every alert, security notice, and system message lands here, with bulk-read controls and an Unread-only toggle for clearing out the backlog.
 
+**How to get here:** Side Menu (☰) → **Alert Settings** → **Notifications**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Inbox / Notifications

@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Text Banking_
 
 > SMS-based banking for members who want balance / history info without opening the app — enrollment is a single toggle plus a verified phone number, with a short command reference: SV HELP, SV BAL, SV BAL ALL, SV HIST, SV STOP.
 
+**How to get here:** Side Menu (☰) → **More Options** → **Text banking**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Enroll in Text Banking

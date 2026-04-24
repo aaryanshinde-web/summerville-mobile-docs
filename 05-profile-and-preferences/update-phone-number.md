@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Update Phone Number_
 
 > The phone-number-of-record is used for OTP step-up across Zelle, FedNow, and login — keeping it current is the most common reason members end up in this screen, and the delete-confirmation dialog here is the only thing that stands between a fat-finger and losing OTP access.
 
+**How to get here:** Side Menu (☰) → Settings → Personal Information → **Phone Number**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Confirm Removal

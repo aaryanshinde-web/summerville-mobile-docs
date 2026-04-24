@@ -6,6 +6,8 @@ _Summerville Mobile › Dashboard › Home & Insights_
 
 > The Dashboard is what loads after every login. It's built to answer the three things members open the app for: "what's my balance," "how's my spending trending," and "what happened since I last looked." Three scrollable sections — Quick Transfer, Spending donut, and Net Worth — with an Activity Since Last Login summary pinned at the bottom.
 
+**How to get here:** Bottom navigation → **Dashboard** (the app opens here by default after login)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Top of Dashboard — Greeting + Credit Offers + All Accounts Summary

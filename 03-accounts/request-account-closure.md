@@ -6,6 +6,8 @@ _Summerville Mobile › Accounts › Request Account Closure_
 
 > Account closure is not a self-service tap-to-close flow. Start from Side Menu → More Options; the screen explains the policy and routes you to the phone line that actually closes accounts.
 
+**How to get here:** Side Menu (☰) → **More Options** → **Close Account**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu → More Options

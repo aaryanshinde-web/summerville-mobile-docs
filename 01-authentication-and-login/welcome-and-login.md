@@ -6,6 +6,8 @@ _Summerville Mobile › Authentication & Onboarding › Welcome & Login_
 
 > The first screens you see every time you open the app — the pre-login welcome with quick shortcuts, the Log In form itself, and the fingerprint-activation prompt that offers biometric login once you're in.
 
+**How to get here:** Open the Summerville Mobile app (this is the first screen you see, logged out)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Welcome Screen (Pre-Login)

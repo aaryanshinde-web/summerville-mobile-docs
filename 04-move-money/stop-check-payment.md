@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Stop Check Payment_
 
 > Self-service stop-payment order on a paper check the member wrote — single check or a series, with the required Terms & Conditions acceptance before submit.
 
+**How to get here:** Bottom navigation → **Deposit** → **Stop Check Payment** (also accessible from Side Menu → **Stop Check Payment**)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Enter Check Details and Accept Terms

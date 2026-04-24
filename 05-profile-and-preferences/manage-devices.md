@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Manage Devices_
 
 > The trusted-devices list — every phone, tablet, or browser that has logged into the account — with a one-tap **Forget** control and the Remember Device / Trust Device tab split.
 
+**How to get here:** Side Menu (☰) → Settings → Personal Information → **Manage Devices**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Manage Devices

@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Profile Switcher_
 
 > One login, two contexts — members with a consumer profile and a business membership switch the whole app context (accounts, transfers, entitlements) from a single bottom-sheet selector.
 
+**How to get here:** Side Menu (☰) → tap the profile card at the top → **Switch profile**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Select View Profile

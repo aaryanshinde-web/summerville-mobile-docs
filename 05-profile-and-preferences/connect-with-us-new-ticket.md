@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Connect With Us (New Ticket)_
 
 > The ticket-creation form inside Help — pick an inquiry type from a fixed taxonomy, attach files, and create a ticket that routes to the right support queue server-side.
 
+**How to get here:** Side Menu (☰) → **Help** → **Connect with us**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Pick Inquiry Type

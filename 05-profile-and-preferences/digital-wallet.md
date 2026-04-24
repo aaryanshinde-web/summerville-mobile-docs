@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Digital Wallet_
 
 > Link your Summerville debit or credit card to your phone's native wallet (Google Pay or Samsung Pay) so you can pay with a tap at any contactless terminal.
 
+**How to get here:** Side Menu (☰) → **Digital Wallet**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Digital Wallet

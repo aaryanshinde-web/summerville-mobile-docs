@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Hub_
 
 > Every way to move money in the app starts here. Open the Move Money tab from the bottom navigation and you'll see all your options grouped into **Pay** (outbound one-off payments) and **Transfers** (account-to-account money movement). A **Quick Transfer** search at the bottom is a shortcut if you already know the recipient.
 
+**How to get here:** Bottom navigation → **Move Money**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Move Money Tab

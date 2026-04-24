@@ -6,6 +6,8 @@ _Summerville Mobile › Accounts › Dashboard & Filters_
 
 > The Accounts tab is your daily-driver view of every account you hold — Summerville accounts at the top, linked external accounts below. Filter controls let you narrow by account type or membership without leaving the screen.
 
+**How to get here:** Bottom navigation → **Accounts**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Accounts Tab

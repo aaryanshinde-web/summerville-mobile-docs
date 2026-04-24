@@ -6,6 +6,8 @@ _Summerville Mobile › Authentication & Onboarding › Trust This Device_
 
 > After you log in on a new phone, the app asks whether to promote it from "Remembered" to "Trusted." Trusted devices skip the OTP step on future logins and high-value actions.
 
+**How to get here:** Appears automatically on the Dashboard after login on a new device
+
 ### Step-by-Step Workflow
 
 #### Step 1: Trust This Device Prompt

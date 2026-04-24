@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Update Address_
 
 > Read-then-edit pattern — the current address is shown in a summary card, and the **Edit** button is the only way to enter the modification form, so the member is always looking at what's on file before they change it.
 
+**How to get here:** Side Menu (☰) → Settings → Personal Information → **Mailing Address** (or **Residential Address**)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Review Current Address

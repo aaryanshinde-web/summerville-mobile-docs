@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Bill Pay — Add Biller_
 
 > The in-app webview into the Bill Pay provider (payrailztest.com shown in test) — the Add Biller form collects the account number and biller ZIP that the provider needs to route the payment.
 
+**How to get here:** Bottom navigation → **Move Money** → **Pay Bills** → **+ Add Biller**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Add Biller — Identity and Routing

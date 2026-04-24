@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Manage Recipients_
 
 > The authoritative list of every recipient you send to. Browse all recipients, search by name, open details to see linked accounts, edit details (name + nickname), add another account to a recipient, or remove the recipient entirely.
 
+**How to get here:** Bottom navigation → **Move Money** → **Manage Recipients**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Manage Recipients From Move Money

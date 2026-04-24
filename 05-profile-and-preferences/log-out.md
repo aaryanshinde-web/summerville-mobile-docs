@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Log Out_
 
 > Ending your session from the Side Menu — a confirm dialog prevents accidental taps.
 
+**How to get here:** Side Menu (☰) → scroll to the bottom → **Log out**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Tap Log Out, Confirm

@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Transfer Funds_
 
 > The simplest transfers on Summerville Mobile. Two flavors live in the same Transfer Funds shell: **Internal Transfers** (between your own Summerville accounts — instant) and **Other Members** (to another Summerville member by member number — also instant, since both sides are on the same core). One form, one confirm, one success screen.
 
+**How to get here:** Bottom navigation → **Move Money** → **Internal Transfers** (own accounts) or **Other Members** (another Summerville member)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Transfer Funds From Move Money

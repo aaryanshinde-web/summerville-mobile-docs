@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › Add Recipient_
 
 > Create a new personal recipient from Manage Recipients. A single form captures payment type (Within Summerville / External), name, nickname, and account type; you save their first account here and can add more accounts later from Recipient Details.
 
+**How to get here:** Bottom navigation → **Move Money** → **Manage Recipients** → **+ New**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Add Recipient

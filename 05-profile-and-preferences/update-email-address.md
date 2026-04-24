@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Update Email Address_
 
 > Multi-email profile with per-email edit and a uniqueness validation that rejects duplicate addresses — similar pattern to phone numbers but with email-specific delivery implications.
 
+**How to get here:** Side Menu (☰) → Settings → Personal Information → **Email Address**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Edit Email With Uniqueness Check

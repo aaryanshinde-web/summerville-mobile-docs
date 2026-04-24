@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Personal Information Menu_
 
 > The single entry point for every contact-data action — phone, email, mailing address, residential address, and device management all live under one menu so members don't hunt for them.
 
+**How to get here:** Side Menu (☰) → **Settings** → **Personal Information**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Personal Information Menu

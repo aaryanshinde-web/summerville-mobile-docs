@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Feedback Prompt_
 
 > Periodic in-app NPS capture — a 5-point face scale plus an always-available **Not Now** dismiss, surfaced on the Dashboard and rate-limited per member so it never becomes intrusive.
 
+**How to get here:** Appears automatically on the Dashboard after high-value actions (also available from Side Menu → **Feedback** for direct submission)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Feedback Sheet Surfaces on Dashboard

@@ -6,6 +6,8 @@ _Summerville Mobile › Accounts › Add a Membership_
 
 > Link a second Summerville membership (for example, a business LLC membership, a joint account with a family member) to your login so everything lives in one app. Start from Profile → Account Settings.
 
+**How to get here:** Side Menu (☰) → **Settings** → **Membership settings** tab → **+ Add an Existing membership**
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu → Settings → Account Settings

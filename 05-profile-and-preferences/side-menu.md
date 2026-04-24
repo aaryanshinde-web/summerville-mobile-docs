@@ -6,6 +6,8 @@ _Summerville Mobile › Profile & Preferences › Side Menu_
 
 > The complete map of everything that isn't on the bottom navigation. Tap the hamburger icon in the top-right of any screen and this drawer slides in. The top of the drawer is your profile card and a master alerts toggle; below that is the full list of features.
 
+**How to get here:** Tap the **☰** hamburger icon at the top-right of any screen
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open the Side Menu

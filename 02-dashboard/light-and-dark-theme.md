@@ -6,6 +6,8 @@ _Summerville Mobile › Dashboard › Light & Dark Theme_
 
 > A member-controlled visual preference — Light, Dark, or System — stored on the device. The Side Menu lists **Dark Theme** as the entry point; picking Dark flips every surface in the app to a dark palette.
 
+**How to get here:** Side Menu (☰ top-right) → **Dark Theme** (near the bottom)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Open Side Menu → Dark Theme

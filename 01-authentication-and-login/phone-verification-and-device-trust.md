@@ -6,6 +6,8 @@ _Summerville Mobile › Authentication & Onboarding › Phone Verification & Dev
 
 > The first-login security flow on a new phone. Step 1: Summerville asks whether to trust the device (promote it from "Remembered" to "Trusted" for biometric login and fewer OTP prompts later). Step 2–3: a silent SMS from your phone confirms the SIM matches the number on record. Step 4: a final "Not Everything's Unlocked Yet!" prompt closes the loop if any action needs extra verification.
 
+**How to get here:** Appears automatically after your first successful login on a new device — you don't navigate here, it finds you
+
 ### Step-by-Step Workflow
 
 #### Step 1: Trust This Device Prompt

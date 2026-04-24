@@ -6,6 +6,8 @@ _Summerville Mobile › Move Money › FedNow Instant Transfer_
 
 > The 24/7/365 instant rails for moving money to or from an external account. Complete flow has Send Money / Receive Money modes, a FedNow-enabled recipient picker, a confirmation with scam warning, and the final success screen. Funds land in minutes including weekends and holidays.
 
+**How to get here:** Bottom navigation → **Move Money** → **Send Instantly** (NEW badge)
+
 ### Step-by-Step Workflow
 
 #### Step 1: Tap Send Instantly From Move Money
