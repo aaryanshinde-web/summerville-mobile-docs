@@ -6,48 +6,52 @@ _Summerville Mobile › Accounts › Account Settings & Beneficiaries_
 
 > One screen, two tabs. **Account Settings** is where you rename accounts, toggle visibility, enable balance sneak-peek, and set a default transfer source. **Membership Settings** shows ownership type, primary members on the membership, and any beneficiaries on file.
 
-**How to get here:** Side Menu (☰) → **Settings**
-
 ### Step-by-Step Workflow
 
-#### Step 1: Open the Side Menu → Settings
+#### Step 1: Open the Side Menu
 
-From any screen, tap the **☰** hamburger icon at the top-right. Tap **Settings — Account and security settings** in the drawer. Account Settings opens with two tabs at the top: **Account settings** (active by default) and **Membership settings**.
+Tap the **☰** hamburger icon at the top-right of any screen.
 
-![Step 1: Open the Side Menu → Settings](../.gitbook/assets/Screenshot_1776963761.png)
+![Step 1: Open the Side Menu](../.gitbook/assets/Screenshot_1776963761.png)
 
-#### Step 2: Account Settings Tab — Pick an Account
+#### Step 2: Tap Settings
 
-The **Account** dropdown at the top lets you pick which account to configure (e.g., **Retail Checking Account (#0001) - #0000060071**). Your changes apply to the selected account.
+In the Side Menu, tap **Settings — Account and security settings**.
 
-![Step 2: Account Settings Tab — Pick an Account](../.gitbook/assets/Screenshot_1776963687.png)
+![Step 2: Tap Settings](../.gitbook/assets/Screenshot_1776963761.png)
 
-#### Step 3: Rename the Account
+#### Step 3: Account Settings Tab — Pick an Account
+
+The Settings screen opens with two tabs at the top: **Account settings** (active by default) and **Membership settings**. On Account settings, the **Account** dropdown at the top lets you pick which account to configure (e.g., **Retail Checking Account (#0001) - #0000060071**). Your changes apply to the selected account.
+
+![Step 3: Account Settings Tab — Pick an Account](../.gitbook/assets/Screenshot_1776963687.png)
+
+#### Step 4: Rename the Account
 
 The **Account title** row shows the current name with a **Rename** link. Tap **Rename** to open the **Change Account Title** modal: *"Account nicknames can be alphanumeric and may contain hyphens (-) and/or space."* Type a new name (e.g., *Joint Checking*), tap **Change** to save or **Cancel** to discard. The new name appears everywhere that account is referenced in the app.
 
-![Step 3: Rename the Account](../.gitbook/assets/Screenshot_1776963710.png)
+![Step 4: Rename the Account](../.gitbook/assets/Screenshot_1776963710.png)
 
-#### Step 4: Toggle Visibility & Sneak-Peek Settings
+#### Step 5: Toggle Visibility & Sneak-Peek Settings
 
-Below Account title, three toggles let you control how this account behaves:
+Below Account title, three toggles control behavior:
 - **Show / Hide** — *"Hidden accounts are not displayed across digital banking"* — turn off to remove this account from the main Accounts view without closing it.
-- **Sneak peek** — *"View this account's balance without logging in"* — controls whether the Balance chip on the welcome screen and the Tap to see your balance on the Log In screen include this account.
+- **Sneak peek** — *"View this account's balance without logging in"* — controls whether the Balance chip on the welcome screen includes this account.
 - **Activities since last login** — *"View activities on this account after my last login"* — includes this account's transactions in the Dashboard's Activity Since Last Login modal.
 
-![Step 4: Toggle Visibility & Sneak-Peek Settings](../.gitbook/assets/Screenshot_1776963687.png)
+![Step 5: Toggle Visibility & Sneak-Peek Settings](../.gitbook/assets/Screenshot_1776963687.png)
 
-#### Step 5: Set as Default For Transfers
+#### Step 6: Set as Default For Transfers
 
-Scroll further: **Set this account as a default for — Transfers** with a toggle. Turn on to pre-select this account as the From source whenever you open Transfer Funds.
+Scroll further to **Set this account as a default for — Transfers** with a toggle. Turn on to pre-select this account as the From source whenever you open Transfer Funds.
 
-![Step 5: Set as Default For Transfers](../.gitbook/assets/Screenshot_1776963687.png)
+![Step 6: Set as Default For Transfers](../.gitbook/assets/Screenshot_1776963687.png)
 
-#### Step 6: Switch to Membership Settings — Primary Members & Beneficiaries
+#### Step 7: Switch to Membership Settings — Primary Members & Beneficiaries
 
 Tap the **Membership settings** tab at the top. The view shows **Ownership type** (Joint, Individual, Business), **Primary members** list (e.g., *VICTOR CREED*), and a **Beneficiaries** section below. If there are no beneficiaries on file, you'll see *"There are no beneficiaries associated with this membership — member number : 0000060071."* This view is read-only — beneficiary changes require a signed event through branch or secure message.
 
-![Step 6: Switch to Membership Settings — Primary Members & Beneficiaries](../.gitbook/assets/Screenshot_1776963710.png)
+![Step 7: Switch to Membership Settings — Primary Members & Beneficiaries](../.gitbook/assets/Screenshot_1776963710.png)
 
 ### Summary
 

@@ -6,15 +6,25 @@ _Summerville Mobile › Profile & Preferences › Apply for Loans_
 
 > Entry point for loan-related tools — financial calculators for planning and the current rates sheet so you can see what Summerville is offering today.
 
-**How to get here:** Side Menu (☰) → **Apply for Loans**
-
 ### Step-by-Step Workflow
 
-#### Step 1: Open Apply For Loans
+#### Step 1: Open the Side Menu
 
-From the Side Menu, tap **Apply for Loans**. The screen lists two rows: **Calculators** (a collection of loan, savings, and retirement calculators hosted as a Tyfone webview) and **Rates** (the current rates sheet for Summerville's loan and deposit products).
+Tap the **☰** hamburger icon at the top-right of any screen.
 
-![Step 1: Open Apply For Loans](../.gitbook/assets/Screenshot_1776963943.png)
+![Step 1: Open the Side Menu](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 2: Tap Apply for Loans
+
+In the Side Menu, tap **Apply for Loans**.
+
+![Step 2: Tap Apply for Loans](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 3: Pick Calculators or Rates
+
+The Apply for Loans screen lists two rows: **Calculators** (a collection of loan, savings, and retirement calculators hosted as a Tyfone webview) and **Rates** (the current rates sheet for Summerville's loan and deposit products). Tap the one you need.
+
+![Step 3: Pick Calculators or Rates](../.gitbook/assets/Screenshot_1776963943.png)
 
 ### Summary
 
@@ -23,5 +33,5 @@ Apply for Loans is the planning surface, not the apply surface — despite the n
 ### Key Use Cases
 
 * Member thinking about a car purchase: Calculators → Auto Loan → enter amount, rate, term — see monthly payment.
-* Member comparing Summerville's HELOC rate to another bank: Rates → HELOC → see current APR.
+* Member comparing Summerville's HELOC rate: Rates → HELOC → see current APR.
 * Planning retirement contributions: Calculators → Compound Interest / Retirement — model scenarios before committing.
