@@ -6,19 +6,33 @@ _Summerville Mobile › Profile & Preferences › Digital Wallet_
 
 > Link your Summerville debit or credit card to your phone's native wallet (Google Pay or Samsung Pay) so you can pay with a tap at any contactless terminal.
 
-**How to get here:** Side Menu (☰) → **Digital Wallet**
-
 ### Step-by-Step Workflow
 
-#### Step 1: Open Digital Wallet
+#### Step 1: Open the Side Menu
 
-From the Side Menu, tap **Digital Wallet — Pay using Digital Wallet**. The screen offers two options: **Google Pay** and **Samsung Pay**. Pick the one that matches your phone.
+Tap the **☰** hamburger icon at the top-right of any screen.
 
-![Step 1: Open Digital Wallet](../.gitbook/assets/Screenshot_1776963967.png)
+![Step 1: Open the Side Menu](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 2: Tap Digital Wallet
+
+In the Side Menu, tap **Digital Wallet — Pay using Digital Wallet** (in the upper half of the menu).
+
+![Step 2: Tap Digital Wallet](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 3: Pick Google Pay or Samsung Pay
+
+The Digital Wallet screen offers two options: **Google Pay** and **Samsung Pay**. Tap the one that matches your phone.
+
+![Step 3: Pick Google Pay or Samsung Pay](../.gitbook/assets/Screenshot_1776963967.png)
+
+#### Step 4: Complete Wallet Provisioning
+
+The OS-native Wallet handoff runs. iOS opens Apple Pay provisioning; Android opens Google Wallet. Tap through the issuer verification (usually a one-tap approval because the app has already established device trust) and the tokenized card appears in your Wallet, ready for contactless payment.
 
 ### Summary
 
-Adding your Summerville card to Google Pay or Samsung Pay takes about 30 seconds and means you never have to carry the physical card again for in-store purchases. The handoff from this screen opens the native wallet's provisioning flow — you'll see a card-verification step handled by the OS, and once complete the tokenized card is ready at any NFC terminal. If you ever lose your physical card, your wallet token keeps working until the replacement arrives. Apple Pay uses a different entry point (the Wallet app adds the card directly) and isn't shown here.
+Adding your Summerville card to Google Pay or Samsung Pay takes about 30 seconds and means you never have to carry the physical card again for in-store purchases. If you ever lose your physical card, your wallet token keeps working until the replacement arrives. Apple Pay uses a different entry point (the Wallet app adds the card directly) and isn't shown here.
 
 ### Key Use Cases
 

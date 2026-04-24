@@ -6,13 +6,23 @@ _Summerville Mobile › Profile & Preferences › Alert Settings_
 
 > The parent menu for every notification preference — balance thresholds, security events, quiet hours, and the overall notifications inbox all live here.
 
-**How to get here:** Side Menu (☰) → **Alert Settings**
-
 ### Step-by-Step Workflow
 
-#### Step 1: Open Alert Settings
+#### Step 1: Open the Side Menu
 
-From the Side Menu, tap **Alert Settings — Manage your alert preferences**. The hub screen shows five rows:
+Tap the **☰** hamburger icon at the top-right of any screen.
+
+![Step 1: Open the Side Menu](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 2: Tap Alert Settings
+
+In the Side Menu, tap **Alert Settings — Manage your alert preferences** (the second row from the top, below Settings).
+
+![Step 2: Tap Alert Settings](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 3: Review the Alert Settings Hub
+
+The hub screen shows five rows:
 - **Account Specific Alerts** — balance, deposit, and withdrawal alerts per account.
 - **General Alerts** — security-related alerts (login failures, password changes, etc.) with mandatory ones always on.
 - **Do-Not-Disturb** — configure quiet hours when alerts don't push.
@@ -21,7 +31,7 @@ From the Side Menu, tap **Alert Settings — Manage your alert preferences**. Th
 
 Tap any row to drill into that category.
 
-![Step 1: Open Alert Settings](../.gitbook/assets/Screenshot_1776963850.png)
+![Step 3: Review the Alert Settings Hub](../.gitbook/assets/Screenshot_1776963850.png)
 
 ### Summary
 

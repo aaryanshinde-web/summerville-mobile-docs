@@ -6,15 +6,25 @@ _Summerville Mobile › Profile & Preferences › Log Out_
 
 > Ending your session from the Side Menu — a confirm dialog prevents accidental taps.
 
-**How to get here:** Side Menu (☰) → scroll to the bottom → **Log out**
-
 ### Step-by-Step Workflow
 
-#### Step 1: Tap Log Out, Confirm
+#### Step 1: Open the Side Menu
 
-From the bottom of the Side Menu, tap **Log out**. A dialog appears: *"Log Out? Are you sure you want to log out?"* with **Cancel** and **Log Out** buttons. Tap **Log Out** to end the session immediately — the app returns to the welcome screen. Tap **Cancel** to stay logged in.
+Tap the **☰** hamburger icon at the top-right of any screen.
 
-![Step 1: Tap Log Out, Confirm](../.gitbook/assets/Screenshot_1776964245.png)
+![Step 1: Open the Side Menu](../.gitbook/assets/Screenshot_1776963761.png)
+
+#### Step 2: Scroll to the Bottom of the Side Menu
+
+Scroll the Side Menu all the way down. **Log out** is pinned at the bottom below every other menu item.
+
+![Step 2: Scroll to the Bottom of the Side Menu](../.gitbook/assets/Screenshot_1776963763.png)
+
+#### Step 3: Tap Log Out, Confirm
+
+Tap **Log out →**. A dialog appears: *"Log Out? Are you sure you want to log out?"* with **Cancel** and **Log Out** buttons. Tap **Log Out** to end the session immediately — the app returns to the welcome screen. Tap **Cancel** to stay logged in.
+
+![Step 3: Tap Log Out, Confirm](../.gitbook/assets/Screenshot_1776964245.png)
 
 ### Summary
 
