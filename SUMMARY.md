@@ -27,7 +27,6 @@
 * [Transfer Funds — Internal & Other Members](04-move-money/transfer-funds-internal.md)
 * [FedNow Instant Transfer](04-move-money/fednow-instant-transfer.md)
 * [External & P2P Transfer](04-move-money/external-and-p2p-transfer.md)
-* [External Transfer — Scam Warning](04-move-money/external-transfer-scam-warning.md)
 * [Scheduled & Recurring Transfers](04-move-money/scheduled-and-recurring-transfers.md)
 * [Manage Recipients](04-move-money/manage-recipients.md)
 * [Add Recipient](04-move-money/add-recipient.md)

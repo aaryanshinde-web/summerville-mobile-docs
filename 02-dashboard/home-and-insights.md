@@ -26,11 +26,11 @@ Scroll further and the **Spending** card appears with a colorful donut chart cov
 
 ![Step 3: Spending Donut](../.gitbook/assets/Screenshot_1776962772.png)
 
-#### Step 4: Net Worth Trend
+#### Step 4: Net Worth Trend (Monthly History)
 
-Below the Spending donut is the **Net Worth** card. A time-range filter lets you pick **6M / 9M / 1Y** of history; the line plots net worth over time and highlights the current month (e.g., *April 2026 — $1,425,220.59*). The full breakdown behind this number is available via *"View Assets & Liabilities"*.
+Below the Spending donut is the **Net Worth** section. A monthly history table lists your net worth for each of the last several months — e.g., *November 2025 $1,332,465.25*, *December 2025 $1,336,683.49*, *January 2026 $1,373,915.93*, *February 2026 $1,399,400.72*, *March 2026 $1,416,127.21*, with the current month (**April 2026 $1,425,220.59**) highlighted in blue at the bottom. Tap **View Assets & Liabilities** to see the breakdown behind the total.
 
-![Step 4: Net Worth Trend](../.gitbook/assets/Screenshot_1776962772.png)
+![Step 4: Net Worth Trend (Monthly History)](../.gitbook/assets/Screenshot_1776962775.png)
 
 #### Step 5: Activity Since Last Login
 
