@@ -1,12 +1,12 @@
 # Table of contents
 
-* [README](README.md)
+* [Summerville Mobile — Member Guide](README.md)
 
 ## Authentication & Onboarding
 
 * [Welcome & Login](01-authentication-and-login/welcome-and-login.md)
 * [Phone Verification & Device Trust](01-authentication-and-login/phone-verification-and-device-trust.md)
-* [Trust This Device Prompt](01-authentication-and-login/trust-this-device-prompt.md)
+* [Trust This Device](01-authentication-and-login/trust-this-device-prompt.md)
 
 ## Dashboard
 
@@ -17,12 +17,14 @@
 
 * [Accounts Dashboard & Filters](03-accounts/accounts-dashboard-and-filters.md)
 * [External Accounts in Accounts Tab](03-accounts/external-accounts-in-accounts-tab.md)
+* [Link an External Account](03-accounts/link-external-account.md)
 * [Add a Membership](03-accounts/add-a-membership.md)
 * [Account Settings & Beneficiaries](03-accounts/account-settings-and-beneficiaries.md)
 * [Request Account Closure](03-accounts/request-account-closure.md)
 
 ## Move Money
 
+* [Move Money Hub](04-move-money/move-money-hub.md)
 * [Transfer Funds — Internal & Other Members](04-move-money/transfer-funds-internal.md)
 * [FedNow Instant Transfer](04-move-money/fednow-instant-transfer.md)
 * [External & P2P Transfer](04-move-money/external-and-p2p-transfer.md)
@@ -42,6 +44,7 @@
 * [Side Menu](05-profile-and-preferences/side-menu.md)
 * [More Options Menu](05-profile-and-preferences/more-options-menu.md)
 * [Settings & Preferences](05-profile-and-preferences/settings-and-preferences.md)
+* [Alert Settings](05-profile-and-preferences/alert-settings-hub.md)
 * [Profile Switcher — Personal & Business](05-profile-and-preferences/profile-switcher-personal-business.md)
 * [Personal Information Menu](05-profile-and-preferences/personal-information-menu.md)
 * [Update Phone Number](05-profile-and-preferences/update-phone-number.md)
@@ -52,9 +55,12 @@
 * [Do-Not-Disturb Period](05-profile-and-preferences/do-not-disturb-period.md)
 * [Inbox & Notifications](05-profile-and-preferences/inbox-and-notifications.md)
 * [Text Banking](05-profile-and-preferences/text-banking.md)
+* [Digital Wallet](05-profile-and-preferences/digital-wallet.md)
+* [Apply for Loans](05-profile-and-preferences/apply-for-loans.md)
 * [Help & Support Tickets](05-profile-and-preferences/help-and-support-tickets.md)
 * [Connect With Us — New Ticket](05-profile-and-preferences/connect-with-us-new-ticket.md)
 * [Credit Score (SavvyMoney)](05-profile-and-preferences/credit-score-savvymoney.md)
 * [Calculators (Webview)](05-profile-and-preferences/calculators-webview.md)
 * [eStatements Delivery](05-profile-and-preferences/estatements-delivery.md)
 * [Feedback Prompt](05-profile-and-preferences/feedback-prompt.md)
+* [Log Out](05-profile-and-preferences/log-out.md)

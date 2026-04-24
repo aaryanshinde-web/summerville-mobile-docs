@@ -1,64 +1,80 @@
-# README
+# Summerville Mobile — Member Guide
 
-> GitBook-style reference for the **Summerville Mobile** end-member banking app. Each module below links to its guide; large modules are split into sub-feature docs so no single guide runs longer than ~8 steps. Per-page structure mirrors the Harmoney Admin Console Summerville space.
+> A tutorial-style reference for the **Summerville Mobile** banking app. Every page walks through a single feature step-by-step, with a real screenshot for each step. No prior knowledge assumed — pick any page and you'll know what to tap, what to expect, and why.
 
-> **Scope:** features that exist in Summerville Mobile today (April 2026). Cards and Business Banking are web-only on nFinia and are intentionally excluded — `cards/` and `business-banking/` in this directory are deprecated stubs from an earlier draft.
+> **Scope:** features live on Summerville Mobile as of April 2026. Cards and Business Banking aren't yet available on mobile — the `cards/` and `business-banking/` folders in this repo contain deprecated stubs from an earlier draft and should be ignored until those features ship.
+
+## Getting Started
+
+If you're brand new to the app, read these pages in order:
+
+1. **[Welcome & Login](01-authentication-and-login/welcome-and-login.md)** — your first screen.
+2. **[Phone Verification & Device Trust](01-authentication-and-login/phone-verification-and-device-trust.md)** — proves this is your phone.
+3. **[Trust This Device](01-authentication-and-login/trust-this-device-prompt.md)** — skip the OTP on future logins.
+4. **[Home & Insights](02-dashboard/home-and-insights.md)** — the Dashboard you land on every time.
+5. **[Side Menu](05-profile-and-preferences/side-menu.md)** — the full map of features outside the bottom tabs.
 
 ## Contents
 
 ### Authentication & Onboarding
 
-* [welcome-and-login](authentication-and-login/welcome-and-login)
-* [phone-verification-and-device-trust](authentication-and-login/phone-verification-and-device-trust)
-* [trust-this-device-prompt](authentication-and-login/trust-this-device-prompt)
+* [Welcome & Login](01-authentication-and-login/welcome-and-login.md)
+* [Phone Verification & Device Trust](01-authentication-and-login/phone-verification-and-device-trust.md)
+* [Trust This Device](01-authentication-and-login/trust-this-device-prompt.md)
 
 ### Dashboard
 
-* [home-and-insights](dashboard/home-and-insights)
-* [light-and-dark-theme](dashboard/light-and-dark-theme)
+* [Home & Insights](02-dashboard/home-and-insights.md)
+* [Light & Dark Theme](02-dashboard/light-and-dark-theme.md)
 
 ### Accounts
 
-* [accounts-dashboard-and-filters](accounts/accounts-dashboard-and-filters)
-* [external-accounts-in-accounts-tab](accounts/external-accounts-in-accounts-tab)
-* [add-a-membership](accounts/add-a-membership)
-* [account-settings-and-beneficiaries](accounts/account-settings-and-beneficiaries)
-* [request-account-closure](accounts/request-account-closure)
+* [Accounts Dashboard & Filters](03-accounts/accounts-dashboard-and-filters.md)
+* [External Accounts in Accounts Tab](03-accounts/external-accounts-in-accounts-tab.md)
+* [Link an External Account](03-accounts/link-external-account.md)
+* [Add a Membership](03-accounts/add-a-membership.md)
+* [Account Settings & Beneficiaries](03-accounts/account-settings-and-beneficiaries.md)
+* [Request Account Closure](03-accounts/request-account-closure.md)
 
 ### Move Money
 
-* [transfer-funds-internal](move-money/transfer-funds-internal)
-* [fednow-instant-transfer](move-money/fednow-instant-transfer)
-* [external-and-p2p-transfer](move-money/external-and-p2p-transfer)
-* [external-transfer-scam-warning](move-money/external-transfer-scam-warning)
-* [scheduled-and-recurring-transfers](move-money/scheduled-and-recurring-transfers)
-* [manage-recipients](move-money/manage-recipients)
-* [add-recipient](move-money/add-recipient)
-* [bill-pay-add-biller](move-money/bill-pay-add-biller)
-* [zelle-send-money](move-money/zelle-send-money)
-* [quick-pay-sso](move-money/quick-pay-sso)
-* [mobile-check-deposit](move-money/mobile-check-deposit)
-* [stop-check-payment](move-money/stop-check-payment)
-* [skip-a-pay](move-money/skip-a-pay)
+* [Move Money Hub](04-move-money/move-money-hub.md)
+* [Transfer Funds — Internal & Other Members](04-move-money/transfer-funds-internal.md)
+* [FedNow Instant Transfer](04-move-money/fednow-instant-transfer.md)
+* [External & P2P Transfer](04-move-money/external-and-p2p-transfer.md)
+* [External Transfer — Scam Warning](04-move-money/external-transfer-scam-warning.md)
+* [Scheduled & Recurring Transfers](04-move-money/scheduled-and-recurring-transfers.md)
+* [Manage Recipients](04-move-money/manage-recipients.md)
+* [Add Recipient](04-move-money/add-recipient.md)
+* [Bill Pay — Add Biller](04-move-money/bill-pay-add-biller.md)
+* [Zelle Send Money](04-move-money/zelle-send-money.md)
+* [Quick Pay SSO](04-move-money/quick-pay-sso.md)
+* [Mobile Check Deposit](04-move-money/mobile-check-deposit.md)
+* [Stop Check Payment](04-move-money/stop-check-payment.md)
+* [Skip A Pay](04-move-money/skip-a-pay.md)
 
 ### Profile & Preferences
 
-* [side-menu](profile-and-preferences/side-menu)
-* [more-options-menu](profile-and-preferences/more-options-menu)
-* [settings-and-preferences](profile-and-preferences/settings-and-preferences)
-* [profile-switcher-personal-business](profile-and-preferences/profile-switcher-personal-business)
-* [personal-information-menu](profile-and-preferences/personal-information-menu)
-* [update-phone-number](profile-and-preferences/update-phone-number)
-* [update-email-address](profile-and-preferences/update-email-address)
-* [update-address](profile-and-preferences/update-address)
-* [manage-devices](profile-and-preferences/manage-devices)
-* [account-alerts](profile-and-preferences/account-alerts)
-* [do-not-disturb-period](profile-and-preferences/do-not-disturb-period)
-* [inbox-and-notifications](profile-and-preferences/inbox-and-notifications)
-* [text-banking](profile-and-preferences/text-banking)
-* [help-and-support-tickets](profile-and-preferences/help-and-support-tickets)
-* [connect-with-us-new-ticket](profile-and-preferences/connect-with-us-new-ticket)
-* [credit-score-savvymoney](profile-and-preferences/credit-score-savvymoney)
-* [calculators-webview](profile-and-preferences/calculators-webview)
-* [estatements-delivery](profile-and-preferences/estatements-delivery)
-* [feedback-prompt](profile-and-preferences/feedback-prompt)
+* [Side Menu](05-profile-and-preferences/side-menu.md)
+* [More Options Menu](05-profile-and-preferences/more-options-menu.md)
+* [Settings & Preferences](05-profile-and-preferences/settings-and-preferences.md)
+* [Alert Settings](05-profile-and-preferences/alert-settings-hub.md)
+* [Profile Switcher — Personal & Business](05-profile-and-preferences/profile-switcher-personal-business.md)
+* [Personal Information Menu](05-profile-and-preferences/personal-information-menu.md)
+* [Update Phone Number](05-profile-and-preferences/update-phone-number.md)
+* [Update Email Address](05-profile-and-preferences/update-email-address.md)
+* [Update Address](05-profile-and-preferences/update-address.md)
+* [Manage Devices](05-profile-and-preferences/manage-devices.md)
+* [Account Alerts](05-profile-and-preferences/account-alerts.md)
+* [Do-Not-Disturb Period](05-profile-and-preferences/do-not-disturb-period.md)
+* [Inbox & Notifications](05-profile-and-preferences/inbox-and-notifications.md)
+* [Text Banking](05-profile-and-preferences/text-banking.md)
+* [Digital Wallet](05-profile-and-preferences/digital-wallet.md)
+* [Apply for Loans](05-profile-and-preferences/apply-for-loans.md)
+* [Help & Support Tickets](05-profile-and-preferences/help-and-support-tickets.md)
+* [Connect With Us — New Ticket](05-profile-and-preferences/connect-with-us-new-ticket.md)
+* [Credit Score (SavvyMoney)](05-profile-and-preferences/credit-score-savvymoney.md)
+* [Calculators (Webview)](05-profile-and-preferences/calculators-webview.md)
+* [eStatements Delivery](05-profile-and-preferences/estatements-delivery.md)
+* [Feedback Prompt](05-profile-and-preferences/feedback-prompt.md)
+* [Log Out](05-profile-and-preferences/log-out.md)
