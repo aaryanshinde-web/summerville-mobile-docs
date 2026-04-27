@@ -2,7 +2,7 @@
 
 > A tutorial-style reference for the **Summerville Mobile** banking app. Every page walks through a single feature step-by-step, with a real screenshot for each step. No prior knowledge assumed — pick any page and you'll know what to tap, what to expect, and why.
 
-> **Scope:** features live on Summerville Mobile as of April 2026. Cards and Business Banking aren't yet available on mobile — the `cards/` and `business-banking/` folders in this repo contain deprecated stubs from an earlier draft and should be ignored until those features ship.
+> **Scope:** features live on Summerville Mobile as of April 2026. Cards aren't yet on mobile — the `cards/` folder contains deprecated stubs and should be ignored until that feature ships.
 
 ## Getting Started
 
@@ -52,6 +52,21 @@ If you're brand new to the app, read these pages in order:
 * [Stop Check Payment](04-move-money/stop-check-payment.md)
 * [Skip A Pay](04-move-money/skip-a-pay.md)
 
+### Business Banking
+
+* [Business Banking Hub](06-business-banking/business-banking-hub.md)
+* [ACH Transfer](06-business-banking/ach-transfer.md)
+* [Domestic Wire Transfer](06-business-banking/wire-transfer.md)
+* [P2P Transfer](06-business-banking/p2p-transfer.md)
+* [Transfer Templates](06-business-banking/transfer-templates.md)
+* [View Scheduled Transfers](06-business-banking/view-scheduled-transfers.md)
+* [Recipient Management](06-business-banking/recipient-management.md)
+* [Role Management](06-business-banking/role-management.md)
+* [User Management](06-business-banking/user-management.md)
+* [Approval Settings](06-business-banking/approval-settings.md)
+* [Approval Requests](06-business-banking/approval-requests.md)
+* [Business Contact Information](06-business-banking/business-information.md)
+
 ### Profile & Preferences
 
 * [Side Menu](05-profile-and-preferences/side-menu.md)
@@ -73,6 +88,7 @@ If you're brand new to the app, read these pages in order:
 * [Apply for Loans](05-profile-and-preferences/apply-for-loans.md)
 * [Help & Support Tickets](05-profile-and-preferences/help-and-support-tickets.md)
 * [Connect With Us — New Ticket](05-profile-and-preferences/connect-with-us-new-ticket.md)
+* [Live Help — Chat, Speak, Video](05-profile-and-preferences/live-help-chat-call-video.md)
 * [Credit Score (SavvyMoney)](05-profile-and-preferences/credit-score-savvymoney.md)
 * [Calculators (Webview)](05-profile-and-preferences/calculators-webview.md)
 * [eStatements Delivery](05-profile-and-preferences/estatements-delivery.md)

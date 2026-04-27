@@ -4,7 +4,7 @@ _Summerville Mobile › Profile & Preferences › Help & Support Tickets_
 
 ## Profile & Preferences: Help & Support Tickets
 
-> The in-app support queue — every secure-message form and service request you've raised, with status and last-updated date, plus a one-tap **Connect with us** button to start a new thread.
+> The Help screen with four contact channels — Message us, Chat with us, Speak with us, Video call us — and a ticket history list with a Connect with us button to start a new request.
 
 **How to get here:** Side Menu (☰) → **Help**
 
@@ -22,18 +22,30 @@ In the Side Menu, tap **Help — Support**.
 
 ![Step 2: Tap Help](../.gitbook/assets/Screenshot_1776963761.png)
 
-#### Step 3: Browse the Tickets List
+#### Step 3: Pick a Contact Channel
 
-Each ticket shows **Subject**, **Assigned to: Support Services**, **Status**, and **Last updated** date. Subject lines are the service-request categories (General inquiry, Address Change Form, Card Order Request, ACH Origination Form, Wire — Domestic Outgoing Wire Transfer Request, etc.). Tap **View** on any row to open the full thread. **+ Connect with us** in the top right starts a new ticket.
+The **Help** screen lists four rows: **Message us**, **Chat with us**, **Speak with us**, and **Video call us**. Tap a row to open that channel.
 
-![Step 3: Browse the Tickets List](../.gitbook/assets/Screenshot_1776963984.png)
+![Step 3: Pick a Contact Channel](../.gitbook/assets/Screenshot_1777271979.png)
+
+#### Step 4: Review Existing Tickets
+
+The Help screen also lists every open ticket with **Subject**, **Assigned to: Support Services**, **Status**, and **Last updated** date. Tap **View** on any row to open the thread.
+
+![Step 4: Review Existing Tickets](../.gitbook/assets/Screenshot_1777271985.png)
+
+#### Step 5: Start a New Ticket
+
+Tap **+ Connect with us** at the top of the ticket list to open the new-ticket form. Use this for written requests that don't need a live agent.
+
+![Step 5: Start a New Ticket](../.gitbook/assets/Screenshot_1777271985.png)
 
 ### Summary
 
-The Help screen is your member-facing view of the same case-management system the FI's support team uses, so "last updated" is the ground-truth signal for whether a ticket is waiting on you or on support. Subject lines double as the operation category, which means ticket triage on the support side can be driven purely by the subject — a pattern the FI's ops team will recognize from the admin console.
+The Help screen is the single entry point for support, with four live channels at the top and the open-ticket history below. Last updated is the signal for whether a ticket is waiting on you or on Support Services. Connect with us at the top of the list creates a new written ticket without leaving the Help screen.
 
 ### Key Use Cases
 
-* Member wants to know the status of their address change: find the Address Change Form ticket in the list, check Status and Last updated.
-* Member needs to initiate a wire: **+ Connect with us** → Wire — Domestic Outgoing Wire Transfer Request → fill and submit.
-* Member re-raises an old issue: the old ticket shows Status = Open — re-use it rather than creating a duplicate, so support sees continuity.
+* Member needs a fast answer: **Chat with us** or **Speak with us** for live help.
+* Member prefers writing: **Message us** or **+ Connect with us** to file a ticket.
+* Member checks status of a prior request: scroll the ticket list, read **Status** and **Last updated**, tap **View** to read the thread.
