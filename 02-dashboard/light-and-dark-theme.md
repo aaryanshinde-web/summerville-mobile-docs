@@ -4,7 +4,7 @@ _Summerville Mobile › Dashboard › Light & Dark Theme_
 
 ## Dashboard: Light & Dark Theme
 
-> A member-controlled visual preference — Light, Dark, or System — stored on the device. Reached through the Side Menu.
+> A member-controlled visual preference. The Side Menu lists **Dark Theme** as the entry; tapping it opens the Dark Mode picker which is a single on/off toggle. When enabled, every surface in the app flips to a dark navy palette.
 
 **How to get here:** Side Menu (☰) → **Dark Theme** (near the bottom)
 
@@ -22,20 +22,18 @@ Scroll the Side Menu past the main navigation rows to the secondary area. **Dark
 
 ![Step 2: Scroll Down to Find Dark Theme](../.gitbook/assets/Screenshot_1776963763.png)
 
-#### Step 3: Tap Dark Theme and Pick Mode
+#### Step 3: Toggle Dark Mode On/Off
 
-Tap **Dark Theme** to open the theme picker. Three modes are offered: **System** (follows your iOS or Android theme automatically), **Light**, or **Dark**. The selection applies immediately — no app restart needed. Brand colors (navy header, signature Summerville blue accents) are preserved across both palettes.
+The **Dark Mode** screen opens with a single row: **Dark Mode — Enable or Disable Dark Mode** with a toggle on the right. The screen itself is rendered in the dark palette (navy header, dark backgrounds), so when you flip the toggle on, the rest of the app immediately matches. Tapping the toggle off returns the app to the light palette.
 
-*Note: the picker destination screen and a dark-mode-active Dashboard aren't in this capture set yet — if you capture them, this step will update with the real images.*
-
-![Step 3: Tap Dark Theme and Pick Mode — TODO: capture theme picker](TODO-theme-picker.png)
+![Step 3: Toggle Dark Mode On/Off](../.gitbook/assets/Screenshot_1776964202.png)
 
 ### Summary
 
-Theme is a local preference — the choice on your phone doesn't sync to tablet or web, and reinstalling the app resets to **System**. Respecting the OS-level theme is the right default for members who run system-wide dark mode at night; explicit Light or Dark overrides the system for members who prefer a fixed appearance.
+The picker is intentionally minimal — one toggle, one preference, applied immediately. There's no separate "System" mode in the current build (unlike many other apps) — Dark Mode is fully member-controlled. The choice is stored on the device, so reinstalling the app or moving to a new phone resets it to the light default. Brand colors (signature blue accents, navy headers) are preserved across both palettes so the Summerville identity stays consistent.
 
 ### Key Use Cases
 
-* Member on system-wide dark mode: no action needed — the app picks up dark automatically on first launch.
-* Accessibility preference for high contrast: set Dark explicitly to pin the theme regardless of OS setting.
-* Member switches phones: the new device defaults to System; re-pin only if the previous device used Light or Dark explicitly.
+* Member prefers dark mode at night for less eye strain: toggle on once, every session loads dark.
+* Accessibility need for high contrast: pin Dark on regardless of OS-level setting.
+* Member tries dark mode and prefers light: toggle off, app reverts immediately.

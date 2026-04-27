@@ -77,4 +77,5 @@ If you're brand new to the app, read these pages in order:
 * [Calculators (Webview)](05-profile-and-preferences/calculators-webview.md)
 * [eStatements Delivery](05-profile-and-preferences/estatements-delivery.md)
 * [Feedback Prompt](05-profile-and-preferences/feedback-prompt.md)
+* [My Insights (PFM)](05-profile-and-preferences/my-insights.md)
 * [Log Out](05-profile-and-preferences/log-out.md)

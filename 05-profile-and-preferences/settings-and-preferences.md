@@ -4,7 +4,7 @@ _Summerville Mobile › Profile & Preferences › Settings & Preferences_
 
 ## Profile & Preferences: Settings & Preferences
 
-> The preference tree for account-level toggles, security settings, and display preferences. Reached through the Side Menu.
+> The preference tree for account-level toggles, security settings, and display preferences. The Settings landing screen has three top-level sections: **Account Settings**, **Personal Information**, and **User ID and Password**.
 
 **How to get here:** Side Menu (☰) → **Settings**
 
@@ -18,22 +18,28 @@ Tap the **☰** hamburger icon at the top-right of any screen. The Side Menu dra
 
 #### Step 2: Tap Settings
 
-In the Side Menu, tap **Settings — Account and security settings**. This is the first item below the Enable alerts toggle.
+In the Side Menu, tap **Settings — Account and security settings**. The Settings landing loads.
 
 ![Step 2: Tap Settings](../.gitbook/assets/Screenshot_1776963761.png)
 
-#### Step 3: Review Account Settings and Membership Settings Tabs
+#### Step 3: Settings Landing — Three Sections
 
-The Settings screen opens with two tabs at the top: **Account settings** (default) and **Membership settings**. Account settings holds per-account preferences (rename, visibility, sneak peek, default transfer source); Membership settings holds read-only ownership and beneficiary information.
+The Settings screen shows three rows, each opening a different sub-area:
+- **Account Settings — Manage your accounts** — rename accounts, toggle visibility, set defaults for transfers/check deposit/text banking.
+- **Personal Information — Manage your devices and contact details** — phone numbers, email addresses, mailing/residential addresses, manage devices.
+- **User ID and Password — Update your User ID, password and OTP method** — credential and step-up management.
 
-![Step 3: Review Account Settings and Membership Settings Tabs](../.gitbook/assets/Screenshot_1776963687.png)
+Tap the row for the area you want to drill into.
+
+![Step 3: Settings Landing — Three Sections](../.gitbook/assets/Screenshot_1776963770.png)
 
 ### Summary
 
-Settings is the one-stop for the preference tuning most members do once and forget — account nicknames, visibility toggles, sneak-peek access, default transfer source, and membership review. None of these settings affect transactional behavior or security posture; they're purely configuration. Keeping them in one place means you can direct any "how do I change X display" question here without needing to know the specific path for each setting. See **Account Settings & Beneficiaries** for the per-account editable toggles.
+Settings is the one-stop hub for everything that isn't a category-level alert preference. Account Settings handles per-account display and default preferences. Personal Information consolidates every contact-data action — phone, email, address, devices — into one menu. User ID and Password handles credential changes. Membership Settings (the read-only ownership and beneficiary view) is reached via the Account Settings tabs once you're inside.
 
 ### Key Use Cases
 
-* Member wants to rename checking to something friendlier: Account settings → Rename.
-* Member wants to confirm beneficiaries are on file: Membership settings.
-* Member wants a specific account pre-selected as the transfer source: Account settings → Set as default for → Transfers.
+* Member wants to rename checking to something friendlier: Settings → Account Settings → Rename.
+* Member's phone number changed: Settings → Personal Information → Phone Number.
+* Member wants to change User ID or reset password: Settings → User ID and Password.
+* Member confirms beneficiaries are on file: Settings → Account Settings → Membership settings tab.
