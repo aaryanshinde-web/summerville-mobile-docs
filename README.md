@@ -55,16 +55,16 @@ If you're brand new to the app, read these pages in order:
 ### Business Banking
 
 * [Business Banking Hub](06-business-banking/business-banking-hub.md)
-* [ACH Transfer](06-business-banking/ach-transfer.md)
 * [Domestic Wire Transfer](06-business-banking/wire-transfer.md)
+* [ACH Transfer](06-business-banking/ach-transfer.md)
 * [P2P Transfer](06-business-banking/p2p-transfer.md)
 * [Transfer Templates](06-business-banking/transfer-templates.md)
-* [View Scheduled Transfers](06-business-banking/view-scheduled-transfers.md)
-* [Recipient Management](06-business-banking/recipient-management.md)
 * [Role Management](06-business-banking/role-management.md)
 * [User Management](06-business-banking/user-management.md)
 * [Approval Settings](06-business-banking/approval-settings.md)
+* [Recipient Management](06-business-banking/recipient-management.md)
 * [Approval Requests](06-business-banking/approval-requests.md)
+* [View Scheduled Transfers](06-business-banking/view-scheduled-transfers.md)
 * [Business Contact Information](06-business-banking/business-information.md)
 
 ### Profile & Preferences
