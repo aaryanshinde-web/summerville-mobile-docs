@@ -18,7 +18,7 @@ From Side Menu (☰) → **Business Settings**, scroll to **Manage** and tap **U
 
 #### Step 2: Review the User List
 
-The screen shows **+ Add a new user** at the top right, the **Business — Mercury — #membership** card, the **View** dropdown defaulted to **Active Users**, and the helper *"Tap on a user to view more information."* Users are grouped by role with a colored initial avatar per row.
+The screen shows **+ Add a new user** at the top right, the **Business** card with the membership number, the **View** dropdown defaulted to **Active Users**, and the helper *"Tap on a user to view more information."* Users are grouped by role with a colored initial avatar per row.
 
 ![Step 2: Review the User List](../.gitbook/assets/Screenshot_1777271033.png)
 

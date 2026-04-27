@@ -51,7 +51,7 @@ Scroll further to **Set this account as a default for — Transfers** with a tog
 
 #### Step 7: Switch to Membership Settings — Primary Members & Beneficiaries
 
-Tap the **Membership settings** tab at the top. The view shows **Ownership type** (Joint, Individual, Business), **Primary members** list (e.g., *VICTOR CREED*), and a **Beneficiaries** section below. If there are no beneficiaries on file, you'll see *"There are no beneficiaries associated with this membership — member number : 0000060071."* This view is read-only — beneficiary changes require a signed event through branch or secure message.
+Tap the **Membership settings** tab at the top. The view shows **Ownership type** (Joint, Individual, Business), **Primary members** list, and a **Beneficiaries** section below. If there are no beneficiaries on file, you'll see *"There are no beneficiaries associated with this membership"* with the member number shown. This view is read-only — beneficiary changes require a signed event through branch or secure message.
 
 ![Step 7: Switch to Membership Settings — Primary Members & Beneficiaries](../.gitbook/assets/Screenshot_1776963710.png)
 

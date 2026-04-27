@@ -30,7 +30,7 @@ On first enrollment, a Credit Confidence splash loads in an embedded webview: ba
 
 #### Step 4: Identity Verification (DOB + SSN)
 
-The webview greets you ("Hello, Donald Blake") and asks for **Date of Birth (MM/DD/YYYY)** and **Social Security Number**. Both are required to pull the credit file. The URL bar (`https://creditscoretest.savvymoney.`) makes the third-party handoff visible. **NEXT** advances to the pull; **BACK** returns to the More Menu without creating an enrollment.
+The webview greets you with *"Hello, &lt;Member Name&gt;"* and asks for **Date of Birth (MM/DD/YYYY)** and **Social Security Number**. Both are required to pull the credit file. The URL bar (`https://creditscoretest.savvymoney.`) makes the third-party handoff visible. **NEXT** advances to the pull; **BACK** returns to the More Menu without creating an enrollment.
 
 ![Step 4: Identity Verification (DOB + SSN)](../.gitbook/assets/Screenshot_1776964140.png)
 

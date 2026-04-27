@@ -18,7 +18,7 @@ From the bottom navigation, tap **Accounts**. The screen shows your holdings gro
 
 #### Step 2: Group By Membership (Alternative View)
 
-Tap the **Group by account type ⇵** toggle to switch to **Group by membership**. Accounts re-group under each membership header (e.g., *VICTOR - #0000060071*). This view is most useful when you have multiple memberships and want to see everything under each member number together rather than all checking accounts together.
+Tap the **Group by account type ⇵** toggle to switch to **Group by membership**. Accounts re-group under each membership header. This view is most useful when you have multiple memberships and want to see everything under each member number together rather than all checking accounts together.
 
 ![Step 2: Group By Membership (Alternative View)](../.gitbook/assets/Screenshot_1776962804.png)
 
@@ -26,7 +26,7 @@ Tap the **Group by account type ⇵** toggle to switch to **Group by membership*
 
 Tap **Filter ▾** to open the filter bottom sheet. Two filter groups appear:
 - **Filter by account type** — tick **Checking Accounts** and/or **Savings Accounts**.
-- **Filter by memberships** — tick the specific member numbers you want to include (e.g., **VICTOR - #0000060071**).
+- **Filter by memberships** — tick the specific member numbers you want to include.
 
 Tap **Apply** to narrow the view, **Clear** to reset all filters back to defaults.
 

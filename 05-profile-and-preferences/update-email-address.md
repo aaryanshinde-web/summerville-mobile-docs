@@ -30,7 +30,7 @@ On the Personal Information menu, tap **Email Address — Update email address**
 
 #### Step 4: Review the List of Emails
 
-The **Update Email Address** screen lists every email on file (e.g., *Email address 1 — prashant.karpe@tyfone.com*, *Email address 2 — summerville@tyfone.com*) with an **Edit** button per row. Contextual text reads *"Update the email address you would like to receive alerts and notifications on."* A **Refresh** link at the top pulls fresh core data when a branch update hasn't propagated yet.
+The **Update Email Address** screen lists every email on file as **Email address 1**, **Email address 2**, etc., each with an **Edit** button per row. Contextual text reads *"Update the email address you would like to receive alerts and notifications on."* A **Refresh** link at the top pulls fresh core data when a branch update hasn't propagated yet.
 
 ![Step 4: Review the List of Emails](../.gitbook/assets/Screenshot_1776963805.png)
 

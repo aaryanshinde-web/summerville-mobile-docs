@@ -24,7 +24,7 @@ The Terms & Conditions screen appears — Zelle Network® Standard Terms — wit
 
 #### Step 3: Choose How to Receive Money
 
-Pick the endpoint at which other people will send you money — an email or a US mobile number from your on-file list (e.g., *(470) 461-9061, (224) 698-9201, prashant.karpe@tyfone.com, summerville@tyfone.com*). Only one endpoint can be your Zelle identity at a time, though you can change it later in Zelle settings. Tap the endpoint row to select, then **Continue**.
+Pick the endpoint at which other people will send you money — an email or a US mobile number from your on-file list. Only one endpoint can be your Zelle identity at a time, though you can change it later in Zelle settings. Tap the endpoint row to select, then **Continue**.
 
 ![Step 3: Choose How to Receive Money](../.gitbook/assets/Screenshot_1776962959.png)
 
