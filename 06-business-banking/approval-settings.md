@@ -10,41 +10,29 @@ _Summerville Mobile › Business Banking › Approval Settings_
 
 ### Step-by-Step Workflow
 
-#### Step 1: Open Business Settings → Approval Settings
+#### Step 1: Open Approval Settings
 
-From Side Menu (☰) → **Business Settings**, scroll to **Manage** and tap **Approval Settings — Manage settings for transactions requiring approvals**. The **Approvals Settings** screen opens.
+From Side Menu (☰) → **Business Settings**, scroll to **Manage** and tap **Approval Settings — Manage settings for transactions requiring approvals**. The **Approvals Settings** screen opens with **Select business** showing the active business, the line *"There are 4 approver(s) with approval permission in this business"*, and the heading *"Select the total number of approvals required for a transaction to process."*
 
-![Step 1: Open Business Settings → Approval Settings](../.gitbook/assets/Screenshot_1777270049.png)
+![Step 1: Open Approval Settings](../.gitbook/assets/Screenshot_1777271132.png)
 
-#### Step 2: Review the Business and Approver Count
+#### Step 2: Pick the Approval Count per Transaction Type
 
-The screen shows **Select business** with the active business and the line *"There are 4 approver(s) with approval permission in this business"*. Below is the heading *"Select the total number of approvals required for a transaction to process."*
+Each transaction type has a numeric stepper: **ACH - Payment**, **ACH - Collection**, **ACH - Payroll**, **Domestic Wires**. Tap a stepper to open the count picker.
 
-![Step 2: Review the Business and Approver Count](../.gitbook/assets/Screenshot_1777271132.png)
+![Step 2: Pick the Approval Count per Transaction Type](../.gitbook/assets/Screenshot_1777271132.png)
 
-#### Step 3: Set the Approval Count per Transaction Type
+#### Step 3: Set the Approval Count
 
-Each transaction type has a numeric stepper: **ACH - Payment**, **ACH - Collection**, **ACH - Payroll**, **Domestic Wires**. Tap the stepper to set how many approvals are required (e.g., 1, 2, or more).
+A picker shows numeric options (**1**, **2**, **3**, **4** — capped at the *"There are N approver(s)"* count). Tap the desired count to set it for that transaction type.
 
-![Step 3: Set the Approval Count per Transaction Type](../.gitbook/assets/Screenshot_1777271132.png)
+![Step 3: Set the Approval Count](../.gitbook/assets/Screenshot_1777271134.png)
 
-#### Step 4: Read the Rules — Set to 1
+#### Step 4: Read the Rules and Save
 
-A note explains: *"When number of approvals is set to 1 — Transactions initiated by an approver will be auto-approved. Transactions initiated by an anybody else in the business can be approved by any approver."*
+A note explains: *"When number of approvals is set to 1 — Transactions initiated by an approver will be auto-approved. Transactions initiated by an anybody else in the business can be approved by any approver."* A second note adds *"When number of approvals is set to more than 1 — Transactions initiated by an approver will count as one of the required approvals. Other approval(s) will be required to process the transaction. Transactions initiated by someone who's not an approver need to be approved by the chosen number of approvers."* Tap **Save** to commit or **Cancel** to discard.
 
-![Step 4: Read the Rules — Set to 1](../.gitbook/assets/Screenshot_1777271132.png)
-
-#### Step 5: Read the Rules — Set to More Than 1
-
-A second note explains: *"When number of approvals is set to more than 1 — Transactions initiated by an approver will count as one of the required approvals. Other approval(s) will be required to process the transaction. Transactions initiated by someone who's not an approver need to be approved by the chosen number of approvers."*
-
-![Step 5: Read the Rules — Set to More Than 1](../.gitbook/assets/Screenshot_1777271137.png)
-
-#### Step 6: Tap Save
-
-Tap **Save** to commit the new approval counts. **Cancel** discards changes.
-
-![Step 6: Tap Save](../.gitbook/assets/Screenshot_1777271137.png)
+![Step 4: Read the Rules and Save](../.gitbook/assets/Screenshot_1777271137.png)
 
 ### Summary
 
