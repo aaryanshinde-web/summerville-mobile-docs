@@ -28,35 +28,47 @@ Under **Method** pick **Standard** or **Same-day Express**. Same-day Express set
 
 ![Step 3: Pick Method](../.gitbook/assets/Screenshot_1776963362.png)
 
-#### Step 4: Pick the From Account
+#### Step 4: Review the From / Email Address / Mobile Number Card
 
-Under **From — Account**, tap **Please Select…**. The list shows every credit union product (e.g., Visa Classic, Used Automobile, Mortgage, Line of Credit, Retail Checking Account, Retail Savings Account, Six Month Certificate, 90 Day IRA Certificate) — pick the one to debit or credit.
+The **From** card now shows **Account** with **Please Select…** plus two extra rows — **Email Address** and **Mobile Number** — for picking the receiving identifier on the **To** side. The **To** card sits below with **Account — Please Select…**.
 
-![Step 4: Pick the From Account](../.gitbook/assets/Screenshot_1776963405.png)
+![Step 4: Review the From / Email Address / Mobile Number Card](../.gitbook/assets/Screenshot_1776963398.png)
 
-#### Step 5: Enter Amount
+#### Step 5: Pick the From Account
+
+Tap **Please Select…** under **From — Account**. The list shows every credit union product (e.g., Visa Classic, Used Automobile, Mortgage, Line of Credit, Retail Checking Account, Retail Savings Account, Six Month Certificate, 90 Day IRA Certificate) — pick the one to debit or credit.
+
+![Step 5: Pick the From Account](../.gitbook/assets/Screenshot_1776963405.png)
+
+#### Step 6: Enter Amount
 
 Scroll to **Amount** and type the dollar value. Tap **Advanced Options** for additional fields if needed.
 
-![Step 5: Enter Amount](../.gitbook/assets/Screenshot_1776963489.png)
+![Step 6: Enter Amount](../.gitbook/assets/Screenshot_1776963489.png)
 
-#### Step 6: Pick Frequency — One-time
+#### Step 7: Pick Frequency — One-time
 
 Under **Frequency**, **One-time Transfer** is the default. Pick a **Transfer Date** from the inline calendar — *"Transfer will complete By:"* updates with the settlement window.
 
-![Step 6: Pick Frequency — One-time](../.gitbook/assets/Screenshot_1776963489.png)
+![Step 7: Pick Frequency — One-time](../.gitbook/assets/Screenshot_1776963489.png)
 
-#### Step 7: Pick Frequency — Recurring Transfer
+#### Step 8: Pick Frequency — Recurring Transfer
 
 Tap **Recurring Transfer** to switch. Pick a **First Transfer Date**, then under **Recurrence** pick **Weekly** (with **Day** + **Every X week(s)**), **Monthly** (with **Day** + **Every X month(s)**), **Semi-monthly** (*"15th and the last day of the month"*), or **End of month**.
 
-![Step 7: Pick Frequency — Recurring Transfer](../.gitbook/assets/Screenshot_1776963502.png)
+![Step 8: Pick Frequency — Recurring Transfer](../.gitbook/assets/Screenshot_1776963502.png)
 
-#### Step 8: Pick End Transfer
+#### Step 9: Pick End Transfer
 
 Under **End Transfer** pick **No end date**, **Specific Date**, or **After X occurrences**. Add **Personal Notes** if needed and submit.
 
-![Step 8: Pick End Transfer](../.gitbook/assets/Screenshot_1776963502.png)
+![Step 9: Pick End Transfer](../.gitbook/assets/Screenshot_1776963502.png)
+
+#### Step 10: Add Personal Notes and Continue
+
+Type into **Personal Notes** if context is needed for the schedule view. The **Note:** at the bottom reads *"Transfers scheduled before 9:30 AM will be completed in 1 business days, afterward it will be completed in 2 business days."* Tap **Continue** to submit or **Cancel** to abandon.
+
+![Step 10: Add Personal Notes and Continue](../.gitbook/assets/Screenshot_1776963410.png)
 
 ### Summary
 

@@ -58,29 +58,41 @@ Tap the **Transfer Date** calendar and use the month/day/year wheel. The footer 
 
 ![Step 8: Pick the Transfer Date](../.gitbook/assets/Screenshot_1777270349.png)
 
-#### Step 9: Optionally Repeat Transfer
+#### Step 9: Open Repeat Transfer
 
-Tick **Repeat transfer**. The **Repeat Transfer** sheet opens with **Select frequency** (**Daily / Weekly / Bi-Weekly / Monthly / Semi-Monthly / Quarterly / Semi-Annually / Annually**) and **End on** (**End Date** or **Until I Cancel**). Tap **Save**.
+Tick **Repeat transfer**. The **Repeat Transfer** sheet opens with two empty dropdowns — **Select frequency** and **End on** — and **Cancel** / **Save** at the bottom.
 
-![Step 9: Optionally Repeat Transfer](../.gitbook/assets/Screenshot_1777270356.png)
+![Step 9: Open Repeat Transfer](../.gitbook/assets/Screenshot_1777270360.png)
 
-#### Step 10: Tap Transfer Funds and Continue
+#### Step 10: Pick Frequency
+
+Tap **Select frequency**. Eight options appear: **Daily**, **Weekly**, **Bi-Weekly**, **Monthly**, **Semi-Monthly**, **Quarterly**, **Semi-Annually**, **Annually**. Pick one.
+
+![Step 10: Pick Frequency](../.gitbook/assets/Screenshot_1777270356.png)
+
+#### Step 11: Pick End on
+
+Tap **End on**. Two options appear: **End Date** (pick a date) or **Until I Cancel** (run until manually stopped). Tap **Save** to commit the schedule.
+
+![Step 11: Pick End on](../.gitbook/assets/Screenshot_1777270359.png)
+
+#### Step 12: Tap Transfer Funds and Continue
 
 Tap **Transfer Funds** at the bottom. A sheet appears: *"Scheduled for one time payment on MM/DD/YYYY"* with **Cancel** and **Continue** — tap **Continue** to keep going.
 
-![Step 10: Tap Transfer Funds and Continue](../.gitbook/assets/Screenshot_1777270393.png)
+![Step 12: Tap Transfer Funds and Continue](../.gitbook/assets/Screenshot_1777270393.png)
 
-#### Step 11: Confirm Transfer
+#### Step 13: Confirm Transfer
 
 The **Confirm Transfer** screen shows From, To, the amount, **Funds will be sent today**, **SEC Code**, **Company Entry Description**, and the warning *"Beware of scams. Remember, only send money to people you know and trust. Once these funds are sent, the transfer can't be cancelled."* Tap **Confirm transfer(s)**.
 
-![Step 11: Confirm Transfer](../.gitbook/assets/Screenshot_1777270397.png)
+![Step 13: Confirm Transfer](../.gitbook/assets/Screenshot_1777270397.png)
 
-#### Step 12: Success and Done
+#### Step 14: Success and Done
 
 The success screen shows From, To, the transfer date, and a Summerville alert: *"An account-to-account transfer to / from your Summerville account has been initiated."* Tap **Done** to return.
 
-![Step 12: Success and Done](../.gitbook/assets/Screenshot_1777270407.png)
+![Step 14: Success and Done](../.gitbook/assets/Screenshot_1777270407.png)
 
 ### Summary
 
