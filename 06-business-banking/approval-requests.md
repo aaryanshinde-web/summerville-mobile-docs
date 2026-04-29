@@ -44,3 +44,4 @@ Approval Requests is where the dual-control rule from Approval Settings actually
 * Audit what was approved this week: filter **Approved Requests**.
 * Investigate a transaction that didn't go through: filter **Declined Requests** or **Expired Requests** to see why.
 * Track cancellations by initiators: filter **Cancelled Requests**.
+
