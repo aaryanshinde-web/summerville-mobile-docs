@@ -26,13 +26,13 @@ Tap the **View** dropdown. Five filters appear: **Pending Requests**, **Approved
 
 With **Pending Requests** selected, each card shows the transaction type and amount (e.g., **ACH: $0.04** or **ACH Payments: <template>: $0.01**), **Requested by <user>**, and **Expires <date and time> PST**. Tap any card to open Request Details.
 
-![Step 3: Review the Pending Requests List](../.gitbook/assets/Screenshot_1777271427.png)
+![Step 3: Review the Pending Requests List](../.gitbook/assets/Screenshot_1777271427_v2.png)
 
 #### Step 4: Review Request Details and Act
 
 The **Request Details** screen shows the transaction type and amount, *"Awaiting N more approvals."*, **Date of request**, **Expires**, **Template type**, **Transfer date**, **Sec code**, **Sender** (Business Checking Account with masked number and Available balance), **Recipient** (with masked account and receiving institution), the per-recipient **Amount**, and **Total amount**. Approve or decline from this screen — each approval drops the **Awaiting N more approvals** counter by one.
 
-![Step 4: Review Request Details and Act](../.gitbook/assets/Screenshot_1777271431.png)
+![Step 4: Review Request Details and Act](../.gitbook/assets/Screenshot_1777271431_v2.png)
 
 ### Summary
 
