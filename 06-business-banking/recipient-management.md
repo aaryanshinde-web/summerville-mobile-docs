@@ -66,7 +66,7 @@ After Save, a **Confirm External Account** sheet appears: *"Please confirm the d
 
 #### Step 10: Receive the External Recipient Alert
 
-A Summerville push appears: *"An external account ending in *******45 with <recipient> at <institution> has been added as an account for funds transfer in your Summerville Digital Banking."* Read and dismiss.
+A Summerville push appears: *"An external account ending in *******45 with &lt;recipient&gt; at &lt;institution&gt; has been added as an account for funds transfer in your Summerville Digital Banking."* Read and dismiss.
 
 ![Step 10: Receive the External Recipient Alert](../.gitbook/assets/Screenshot_1777271213.png)
 
@@ -120,7 +120,7 @@ Back on All Recipients, tap **Copy Recipients…**. The wizard opens at **STEP 1
 
 #### Step 19: Copy Recipients — Step 4 — Review
 
-**STEP 4** shows *"Copying N recipients from <source> to M other businesses…"* with each target business listed and *"N Recipient(s) will be added. Show"*. Tap **Confirm** to proceed.
+**STEP 4** shows *"Copying N recipients from &lt;source&gt; to M other businesses…"* with each target business listed and *"N Recipient(s) will be added. Show"*. Tap **Confirm** to proceed.
 
 ![Step 19: Copy Recipients — Step 4 — Review](../.gitbook/assets/Screenshot_1777271292.png)
 
@@ -132,7 +132,7 @@ Tap **Show** on any target business. The list expands inline with each recipient
 
 #### Step 21: Confirm the Copy
 
-Tap **Confirm** at the bottom. A **Confirm** dialog appears: *"Are you sure you want to copy recipients from <source> to N other businesses?"* with **Cancel** and **OK**. Tap **OK** to commit.
+Tap **Confirm** at the bottom. A **Confirm** dialog appears: *"Are you sure you want to copy recipients from &lt;source&gt; to N other businesses?"* with **Cancel** and **OK**. Tap **OK** to commit.
 
 ![Step 21: Confirm the Copy](../.gitbook/assets/Screenshot_1777271299.png)
 

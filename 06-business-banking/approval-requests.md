@@ -24,7 +24,7 @@ Tap the **View** dropdown. Five filters appear: **Pending Requests**, **Approved
 
 #### Step 3: Review the Pending Requests List
 
-With **Pending Requests** selected, each card shows the transaction type and amount (e.g., **ACH: $0.04** or **ACH Payments: <template>: $0.01**), **Requested by <user>**, and **Expires <date and time> PST**. Tap any card to open Request Details.
+With **Pending Requests** selected, each card shows the transaction type and amount (e.g., **ACH: $0.04** or **ACH Payments: &lt;template&gt;: $0.01**), **Requested by &lt;user&gt;**, and **Expires &lt;date and time&gt; PST**. Tap any card to open Request Details.
 
 ![Step 3: Review the Pending Requests List](../.gitbook/assets/Screenshot_1777271427_v2.png)
 

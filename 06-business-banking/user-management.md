@@ -54,7 +54,7 @@ A **Confirm** dialog appears: *"Are you sure you want to update this user's info
 
 #### Step 8: Deactivate a User
 
-To deactivate, open the user and pick **Deactivate**. The **Deactivate** sheet opens: *"<user> is currently active with N business(es)"*, a tickbox for the business with the role in parentheses, and the prompt *"Are you sure you want to deactivate this user from the selected business(es)?"* Tap **Deactivate User** to confirm or **Cancel**.
+To deactivate, open the user and pick **Deactivate**. The **Deactivate** sheet opens: *"&lt;user&gt; is currently active with N business(es)"*, a tickbox for the business with the role in parentheses, and the prompt *"Are you sure you want to deactivate this user from the selected business(es)?"* Tap **Deactivate User** to confirm or **Cancel**.
 
 ![Step 8: Deactivate a User](../.gitbook/assets/Screenshot_1777271074.png)
 

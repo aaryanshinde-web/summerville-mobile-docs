@@ -60,7 +60,7 @@ A long-press on the Recipient row opens an **Edit** sheet at the bottom. Below t
 
 #### Step 9: Tap Run Template and Confirm
 
-Tap **Run Template** at the bottom. A **Confirm** dialog appears: *"Are you sure you want to run template <name>?"* with **Cancel** and **OK**.
+Tap **Run Template** at the bottom. A **Confirm** dialog appears: *"Are you sure you want to run template &lt;name&gt;?"* with **Cancel** and **OK**.
 
 ![Step 9: Tap Run Template and Confirm](../.gitbook/assets/Screenshot_1777270622.png)
 
@@ -138,7 +138,7 @@ The **Select recipient(s)** sheet shows **Recipient** with the picked row, **Ent
 
 #### Step 22: Tap Save Template and Confirm
 
-Tap **Save Template** at the bottom of the form. A **Confirm** dialog appears: *"Are you sure you want to create the template <name>?"* with **Cancel** and **OK**. Tap **OK** to save.
+Tap **Save Template** at the bottom of the form. A **Confirm** dialog appears: *"Are you sure you want to create the template &lt;name&gt;?"* with **Cancel** and **OK**. Tap **OK** to save.
 
 ![Step 22: Tap Save Template and Confirm](../.gitbook/assets/Screenshot_1777270713.png)
 
